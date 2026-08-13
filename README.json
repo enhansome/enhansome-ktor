@@ -1,0 +1,455 @@
+{
+  "items": [
+    {
+      "description": "",
+      "items": [],
+      "title": "Podcasts/Episodes"
+    },
+    {
+      "description": "",
+      "items": [],
+      "title": "Podcasts"
+    },
+    {
+      "description": "",
+      "items": [
+        {
+          "node_type": "item",
+          "title": "NotyKT",
+          "description": "NotyKT is the complete Kotlin-stack note taking application built to demonstrate a use of Kotlin programming language in server-side and Modern Android development tools. REST API built using Ktor.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Kotlin",
+            "last_commit": "2026-04-23T02:23:34Z",
+            "owner": "PatilShreyas",
+            "repo": "NotyKT",
+            "stars": 1768
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "Samples for Ktor",
+          "description": "A collection of ready-to-use samples for Ktor.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Kotlin",
+            "last_commit": "2026-08-07T20:28:34Z",
+            "owner": "ktorio",
+            "repo": "ktor-samples",
+            "stars": 1618
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "Starter project to create a simple RESTful web service in Kotlin",
+          "description": "Starter RESTful service with websocket notifications using Kotlin, Ktor and Exposed with H2, HikariCP and FlyWay.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Kotlin",
+            "last_commit": "2026-07-23T16:50:15Z",
+            "owner": "raharrison",
+            "repo": "kotlin-ktor-exposed-starter",
+            "stars": 588
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "Ktor Arrow Real World Example",
+          "description": "Real World implementation - \"The mother of all demo apps\". Written in Kotlin, with Ktor, Arrow, SqlDelight, KotlinX Serialization, etc.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Kotlin",
+            "last_commit": "2026-08-12T15:40:02Z",
+            "owner": "nomisRev",
+            "repo": "ktor-arrow-example",
+            "stars": 305
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "KtorEasy",
+          "description": "Demonstrates a suggested Ktor architecture. It includes Backend implementation with Ktor, MariaDB database connection with Hikari, Docker command to build Backend container and Docker compose to run both database and backend instance.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Kotlin",
+            "last_commit": "2023-02-15T12:05:13Z",
+            "owner": "mathias21",
+            "repo": "KtorEasy",
+            "stars": 278
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "RealWorld Kotlin Ktor Backend",
+          "description": "Kotlin-Ktor codebase containing real world examples (CRUD, auth, advanced patterns, etc) that adheres to the RealWorld spec and API.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Kotlin",
+            "last_commit": "2025-04-19T19:30:14Z",
+            "owner": "dragneelfps",
+            "repo": "realworld-kotlin-ktor",
+            "stars": 198
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "Tenistas REST Ktor (Spanish)",
+          "description": "Api REST de Tenistas con Ktor para Programación de Servicios y Procesos de 2º de DAM. Curso 2022/2023.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Kotlin",
+            "last_commit": "2023-06-07T08:48:20Z",
+            "owner": "joseluisgs",
+            "repo": "tenistas-rest-ktor-2022-2023",
+            "stars": 49
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "Kotlin Native Server",
+          "description": "Kotlin Native Ktor server with K8s zero-downtime demo.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Kotlin",
+            "last_commit": "2023-02-22T17:12:51Z",
+            "owner": "nomisRev",
+            "repo": "ktor-k8s-zero-downtime",
+            "stars": 42
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "github-alerts-kotlin",
+          "description": "Example implementation of the subscription microservice (Ktor flavour).",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Kotlin",
+            "last_commit": "2023-09-09T00:00:37Z",
+            "owner": "xebia-functional",
+            "repo": "gh-alerts-subscriptions-kotlin",
+            "stars": 34
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "HTMX Sample app",
+          "description": "Ktor + PostgreSQL + HTMX + kotlin.html. All CRUD methods are implemented.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Kotlin",
+            "last_commit": "2026-01-25T14:11:08Z",
+            "owner": "Rattlyy",
+            "repo": "htmx-ktor",
+            "stars": 30
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "Ktor + Koin + MongoDB template",
+          "description": "An example project how to run Ktor + Koin + MongoDB. Save your classes with ease and without blocking!",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Kotlin",
+            "last_commit": "2023-07-11T06:59:41Z",
+            "owner": "tkrason",
+            "repo": "ktor-koin-mongodb-template",
+            "stars": 18
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "kotlin-backend-ktor",
+          "description": "A demonstration of how we can use Kotlin as Backed with Ktor.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Kotlin",
+            "last_commit": "2023-08-24T07:14:57Z",
+            "owner": "azlaan95",
+            "repo": "kotlin-backend-ktor",
+            "stars": 4
+          }
+        }
+      ],
+      "title": "Educational Projects"
+    },
+    {
+      "description": "",
+      "items": [],
+      "title": "Other Resources"
+    },
+    {
+      "description": "",
+      "items": [],
+      "title": "YouTube Channels, Videos and Playlists"
+    },
+    {
+      "description": "",
+      "items": [
+        {
+          "node_type": "item",
+          "title": "Kodein",
+          "description": "Kodein is a very simple and yet very useful dependency retrieval container. it is very easy to use and configure.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Kotlin",
+            "last_commit": "2026-07-21T07:40:56Z",
+            "owner": "kosi-libs",
+            "repo": "Kodein",
+            "stars": 3334
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "Hoplite",
+          "description": "Kotlin library for loading configuration files into typesafe classes in a boilerplate-free way. Define your config using Kotlin data classes, and at startup Hoplite will read from one or more config files, mapping the values in those files into your config classes. Designed for usage in Ktor.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Kotlin",
+            "last_commit": "2026-07-27T04:34:58Z",
+            "owner": "sksamuel",
+            "repo": "hoplite",
+            "stars": 1046
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "Kweb",
+          "description": "A streamlined Kotlin web framework built on Ktor that makes it easy to create sophisticated interactive websites.",
+          "children": [],
+          "repo_info": {
+            "archived": true,
+            "language": "Kotlin",
+            "last_commit": "2024-08-03T14:55:08Z",
+            "owner": "kwebio",
+            "repo": "kweb-core",
+            "stars": 966
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "Ktor OpenAPI Generator",
+          "description": "Ktor OpenAPI/Swagger 3 Generator.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Kotlin",
+            "last_commit": "2022-06-18T22:07:14Z",
+            "owner": "papsign",
+            "repo": "Ktor-OpenAPI-Generator",
+            "stars": 252
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "Tribune",
+          "description": "Multiplatform Kotlin library that builds on Arrow to provide a toolset for creating simple parsers from raw input types, to properly validated parsed types. Designed for usage in Ktor.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Kotlin",
+            "last_commit": "2025-05-28T21:07:34Z",
+            "owner": "sksamuel",
+            "repo": "tribune",
+            "stars": 221
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "Cohort",
+          "description": "Spring Actuator style replacement for Ktor. Provides health checks for orchestrators like Kubernetes and management of logging, databases, JVM settings, memory and threads in production.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Kotlin",
+            "last_commit": "2026-08-06T16:52:50Z",
+            "owner": "sksamuel",
+            "repo": "cohort",
+            "stars": 184
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "Kompendium",
+          "description": "Intended to be a non-invasive OpenAPI spec generator for Ktor APIs. By operating entirely through Ktor's plugin architecture, it allows you to incrementally document your API without requiring you to rip out and replace the amazing code you have already written.",
+          "children": [],
+          "repo_info": {
+            "archived": true,
+            "language": "Kotlin",
+            "last_commit": "2025-03-31T18:56:15Z",
+            "owner": "bkbnio",
+            "repo": "kompendium",
+            "stars": 167
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "Ktor OpenAPI Spec Generator",
+          "description": null,
+          "children": [],
+          "repo_info": {
+            "archived": true,
+            "language": "Kotlin",
+            "last_commit": "2025-03-31T18:56:15Z",
+            "owner": "bkbnio",
+            "repo": "kompendium",
+            "stars": 167
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "kotlin-kafka",
+          "description": "Kafka bindings for Kotlin , and Kafka streaming operators for KotlinX Flow. Designed for usage in Ktor.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Kotlin",
+            "last_commit": "2026-07-05T09:39:57Z",
+            "owner": "nomisRev",
+            "repo": "kotlin-kafka",
+            "stars": 125
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "Extra Ktor Plugins",
+          "description": "A library of extra plugins for multiplatform ktor server / client, including a plugin for Kafka, a flexible rate limiter plugin and a circuit breaker for ktor clients",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Kotlin",
+            "last_commit": "2026-04-01T11:57:15Z",
+            "owner": "Flaxoos",
+            "repo": "extra-ktor-plugins",
+            "stars": 106
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "SuspendApp with Ktor",
+          "description": "The module suspendapp-ktor provides a server constructor that lifts the Ktor ApplicationEngine in to a Resource, representing the Engine running an Application(i.e Netty) while supporting auto-reload.",
+          "children": [],
+          "repo_info": {
+            "archived": true,
+            "language": "Kotlin",
+            "last_commit": "2025-04-22T06:37:44Z",
+            "owner": "arrow-kt",
+            "repo": "suspendapp",
+            "stars": 78
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "Kryptokrona Kotlin SDK",
+          "description": "Kryptokrona SDK in Kotlin for building decentralized private communication and payment systems. Uses Ktor client library to fetch data from RPC.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Kotlin",
+            "last_commit": "2023-08-14T07:32:57Z",
+            "owner": "kryptokrona",
+            "repo": "kryptokrona-kotlin-sdk",
+            "stars": 54
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "Kryptokrona API",
+          "description": "For caching and processing data from the blockchain to provide faster access for services.",
+          "children": [],
+          "repo_info": {
+            "archived": true,
+            "language": "Kotlin",
+            "last_commit": "2023-07-06T18:16:32Z",
+            "owner": "kryptokrona",
+            "repo": "kryptokrona-api",
+            "stars": 39
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "ktor-health-check",
+          "description": "Simple, opinionated ktor health and readiness checks made for Kubernetes.",
+          "children": [],
+          "repo_info": {
+            "archived": true,
+            "language": "Kotlin",
+            "last_commit": "2022-04-19T09:00:46Z",
+            "owner": "zensum",
+            "repo": "ktor-health-check",
+            "stars": 35
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "Kotlin GCP Pubsub",
+          "description": "A Ktor Plugin for convenient, and easy integrating with to Google Cloud Platform PubSub, includes testing support and integration with KotlinX Serialization.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Kotlin",
+            "last_commit": "2026-08-10T17:25:15Z",
+            "owner": "nomisRev",
+            "repo": "gcp-pubsub-kt",
+            "stars": 24
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "Casino Engine",
+          "description": "Production-grade open-source iGaming/casino engine built on Ktor. Game aggregator integrations (Pragmatic Play, OneGameHub, Pateplay), session orchestration, betting lifecycle (place/settle/rollback), and freespin mechanics. Exposes a gRPC API and publishes RabbitMQ events. Hexagonal architecture with DDD and CQRS. Apache 2.0.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Kotlin",
+            "last_commit": "2026-08-08T19:34:50Z",
+            "owner": "nekzabirov",
+            "repo": "IGaming-Game-Engine",
+            "stars": 18
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "Starter Project ktor",
+          "description": "This is a starter project for building server-side applications using Ktor, a framework for building asynchronous servers and clients in connected systems. This template integrates MongoDB for database operations, Koin for dependency injection, and Swagger for API documentation.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Kotlin",
+            "last_commit": "2025-10-30T02:27:10Z",
+            "owner": "iammohdzaki",
+            "repo": "Starter-Project-Ktor",
+            "stars": 10
+          }
+        }
+      ],
+      "title": "Ktor Projects"
+    },
+    {
+      "description": "Contributions are very welcome!\nFeel free to open an issue or create a pull request with your additions.\nThank you!",
+      "items": [],
+      "title": "Contributing"
+    }
+  ],
+  "metadata": {
+    "last_updated": "2026-08-13T07:25:20.927Z",
+    "original_repository": "mjovanc/awesome-ktor",
+    "original_repository_sha": "01422a5a030769b4aa6f6514fa3c6681055340d8",
+    "enhanced_repository": "enhansome/enhansome-ktor",
+    "enhanced_repository_description": null,
+    "title": "Awesome Ktor with stars"
+  }
+}
