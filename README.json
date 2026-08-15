@@ -418,7 +418,7 @@
             "last_commit": "2026-08-14T06:36:31Z",
             "owner": "nekzabirov",
             "repo": "IGaming-Game-Engine",
-            "stars": 18
+            "stars": 19
           }
         },
         {
@@ -445,7 +445,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-08-14T07:22:49.524Z",
+    "last_updated": "2026-08-15T06:35:41.979Z",
     "original_repository": "mjovanc/awesome-ktor",
     "original_repository_sha": "01422a5a030769b4aa6f6514fa3c6681055340d8",
     "enhanced_repository": "enhansome/enhansome-ktor",
