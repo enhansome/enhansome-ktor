@@ -35,7 +35,7 @@
           "repo_info": {
             "archived": false,
             "language": "Kotlin",
-            "last_commit": "2026-08-07T20:28:34Z",
+            "last_commit": "2026-08-16T00:02:23Z",
             "owner": "ktorio",
             "repo": "ktor-samples",
             "stars": 1618
@@ -445,7 +445,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-08-15T06:35:41.979Z",
+    "last_updated": "2026-08-16T06:37:10.990Z",
     "original_repository": "mjovanc/awesome-ktor",
     "original_repository_sha": "01422a5a030769b4aa6f6514fa3c6681055340d8",
     "enhanced_repository": "enhansome/enhansome-ktor",
