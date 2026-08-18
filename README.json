@@ -278,7 +278,7 @@
             "last_commit": "2026-08-16T07:48:26Z",
             "owner": "sksamuel",
             "repo": "cohort",
-            "stars": 184
+            "stars": 185
           }
         },
         {
@@ -401,7 +401,7 @@
           "repo_info": {
             "archived": false,
             "language": "Kotlin",
-            "last_commit": "2026-08-10T17:25:15Z",
+            "last_commit": "2026-08-17T18:49:34Z",
             "owner": "nomisRev",
             "repo": "gcp-pubsub-kt",
             "stars": 24
@@ -445,7 +445,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-08-17T06:52:54.630Z",
+    "last_updated": "2026-08-18T06:40:28.873Z",
     "original_repository": "mjovanc/awesome-ktor",
     "original_repository_sha": "01422a5a030769b4aa6f6514fa3c6681055340d8",
     "enhanced_repository": "enhansome/enhansome-ktor",
