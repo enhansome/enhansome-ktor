@@ -208,7 +208,7 @@
             "last_commit": "2026-07-21T07:40:56Z",
             "owner": "kosi-libs",
             "repo": "Kodein",
-            "stars": 3334
+            "stars": 3333
           }
         },
         {
@@ -418,7 +418,7 @@
             "last_commit": "2026-08-14T06:36:31Z",
             "owner": "nekzabirov",
             "repo": "IGaming-Game-Engine",
-            "stars": 20
+            "stars": 21
           }
         },
         {
@@ -445,7 +445,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-08-18T06:40:28.873Z",
+    "last_updated": "2026-08-19T06:40:50.735Z",
     "original_repository": "mjovanc/awesome-ktor",
     "original_repository_sha": "01422a5a030769b4aa6f6514fa3c6681055340d8",
     "enhanced_repository": "enhansome/enhansome-ktor",
