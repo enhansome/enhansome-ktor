@@ -1,17 +1,7 @@
 {
   "items": [
     {
-      "description": "",
-      "items": [],
-      "title": "Podcasts/Episodes"
-    },
-    {
-      "description": "",
-      "items": [],
-      "title": "Podcasts"
-    },
-    {
-      "description": "",
+      "description": null,
       "items": [
         {
           "node_type": "item",
@@ -20,6 +10,7 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 303164275,
             "language": "Kotlin",
             "last_commit": "2026-04-23T02:23:34Z",
             "owner": "PatilShreyas",
@@ -34,6 +25,7 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 118613634,
             "language": "Kotlin",
             "last_commit": "2026-08-16T00:02:23Z",
             "owner": "ktorio",
@@ -48,6 +40,7 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 123470901,
             "language": "Kotlin",
             "last_commit": "2026-07-23T16:50:15Z",
             "owner": "raharrison",
@@ -62,6 +55,7 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 442854737,
             "language": "Kotlin",
             "last_commit": "2026-08-17T04:33:15Z",
             "owner": "nomisRev",
@@ -76,6 +70,7 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 281910196,
             "language": "Kotlin",
             "last_commit": "2023-02-15T12:05:13Z",
             "owner": "mathias21",
@@ -90,6 +85,7 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 192593564,
             "language": "Kotlin",
             "last_commit": "2025-04-19T19:30:14Z",
             "owner": "dragneelfps",
@@ -104,6 +100,7 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 588237416,
             "language": "Kotlin",
             "last_commit": "2023-06-07T08:48:20Z",
             "owner": "joseluisgs",
@@ -118,6 +115,7 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 602039525,
             "language": "Kotlin",
             "last_commit": "2023-02-22T17:12:51Z",
             "owner": "nomisRev",
@@ -132,6 +130,7 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 502058350,
             "language": "Kotlin",
             "last_commit": "2023-09-09T00:00:37Z",
             "owner": "xebia-functional",
@@ -146,6 +145,7 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 682246192,
             "language": "Kotlin",
             "last_commit": "2026-01-25T14:11:08Z",
             "owner": "Rattlyy",
@@ -160,6 +160,7 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 661290043,
             "language": "Kotlin",
             "last_commit": "2023-07-11T06:59:41Z",
             "owner": "tkrason",
@@ -174,6 +175,7 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 670599347,
             "language": "Kotlin",
             "last_commit": "2023-08-24T07:14:57Z",
             "owner": "azlaan95",
@@ -185,17 +187,7 @@
       "title": "Educational Projects"
     },
     {
-      "description": "",
-      "items": [],
-      "title": "Other Resources"
-    },
-    {
-      "description": "",
-      "items": [],
-      "title": "YouTube Channels, Videos and Playlists"
-    },
-    {
-      "description": "",
+      "description": null,
       "items": [
         {
           "node_type": "item",
@@ -204,6 +196,7 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 34046231,
             "language": "Kotlin",
             "last_commit": "2026-07-21T07:40:56Z",
             "owner": "kosi-libs",
@@ -218,6 +211,7 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 187727131,
             "language": "Kotlin",
             "last_commit": "2026-07-27T04:34:58Z",
             "owner": "sksamuel",
@@ -232,6 +226,7 @@
           "children": [],
           "repo_info": {
             "archived": true,
+            "id": 78316423,
             "language": "Kotlin",
             "last_commit": "2024-08-03T14:55:08Z",
             "owner": "kwebio",
@@ -246,6 +241,7 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 186148881,
             "language": "Kotlin",
             "last_commit": "2022-06-18T22:07:14Z",
             "owner": "papsign",
@@ -260,6 +256,7 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 10692938,
             "language": "Kotlin",
             "last_commit": "2025-05-28T21:07:34Z",
             "owner": "sksamuel",
@@ -274,6 +271,7 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 342731382,
             "language": "Kotlin",
             "last_commit": "2026-08-16T07:48:26Z",
             "owner": "sksamuel",
@@ -288,6 +286,7 @@
           "children": [],
           "repo_info": {
             "archived": true,
+            "id": 356919425,
             "language": "Kotlin",
             "last_commit": "2025-03-31T18:56:15Z",
             "owner": "bkbnio",
@@ -302,6 +301,7 @@
           "children": [],
           "repo_info": {
             "archived": true,
+            "id": 356919425,
             "language": "Kotlin",
             "last_commit": "2025-03-31T18:56:15Z",
             "owner": "bkbnio",
@@ -316,6 +316,7 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 428349598,
             "language": "Kotlin",
             "last_commit": "2026-07-05T09:39:57Z",
             "owner": "nomisRev",
@@ -330,6 +331,7 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 675010928,
             "language": "Kotlin",
             "last_commit": "2026-04-01T11:57:15Z",
             "owner": "Flaxoos",
@@ -344,6 +346,7 @@
           "children": [],
           "repo_info": {
             "archived": true,
+            "id": 519111903,
             "language": "Kotlin",
             "last_commit": "2025-04-22T06:37:44Z",
             "owner": "arrow-kt",
@@ -358,6 +361,7 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 579217789,
             "language": "Kotlin",
             "last_commit": "2023-08-14T07:32:57Z",
             "owner": "kryptokrona",
@@ -372,6 +376,7 @@
           "children": [],
           "repo_info": {
             "archived": true,
+            "id": 603247846,
             "language": "Kotlin",
             "last_commit": "2023-07-06T18:16:32Z",
             "owner": "kryptokrona",
@@ -386,6 +391,7 @@
           "children": [],
           "repo_info": {
             "archived": true,
+            "id": 100628460,
             "language": "Kotlin",
             "last_commit": "2022-04-19T09:00:46Z",
             "owner": "zensum",
@@ -400,6 +406,7 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 577029437,
             "language": "Kotlin",
             "last_commit": "2026-08-17T18:49:34Z",
             "owner": "nomisRev",
@@ -414,6 +421,7 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 1094544202,
             "language": "Kotlin",
             "last_commit": "2026-08-14T06:36:31Z",
             "owner": "nekzabirov",
@@ -428,6 +436,7 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 552226976,
             "language": "Kotlin",
             "last_commit": "2025-10-30T02:27:10Z",
             "owner": "iammohdzaki",
@@ -437,16 +446,12 @@
         }
       ],
       "title": "Ktor Projects"
-    },
-    {
-      "description": "Contributions are very welcome!\nFeel free to open an issue or create a pull request with your additions.\nThank you!",
-      "items": [],
-      "title": "Contributing"
     }
   ],
   "metadata": {
-    "last_updated": "2026-08-19T06:40:50.735Z",
+    "last_updated": "2026-08-19T12:35:31.351Z",
     "original_repository": "mjovanc/awesome-ktor",
+    "original_repository_id": 612120969,
     "original_repository_sha": "01422a5a030769b4aa6f6514fa3c6681055340d8",
     "enhanced_repository": "enhansome/enhansome-ktor",
     "enhanced_repository_description": null,
