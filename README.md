@@ -53,7 +53,7 @@ Ktor is an asynchronous framework for creating microservices, web applications a
 * [NotyKT](https://github.com/PatilShreyas/NotyKT) ⭐ 1,768 | 🐛 12 | 🌐 Kotlin | 📅 2026-04-23 NotyKT is the complete Kotlin-stack note taking application built to demonstrate a use of Kotlin programming language in server-side and Modern Android development tools.  REST API built using Ktor.
 * [Samples for Ktor](https://github.com/ktorio/ktor-samples) ⭐ 1,618 | 🐛 14 | 🌐 Kotlin | 📅 2026-08-16 A collection of ready-to-use samples for Ktor.
 * [Starter project to create a simple RESTful web service in Kotlin](https://github.com/raharrison/kotlin-ktor-exposed-starter) ⭐ 588 | 🐛 0 | 🌐 Kotlin | 📅 2026-07-23 Starter RESTful service with websocket notifications using Kotlin, Ktor and Exposed with H2, HikariCP and FlyWay.
-* [Ktor Arrow Real World Example](https://github.com/nomisRev/ktor-arrow-example) ⭐ 305 | 🐛 10 | 🌐 Kotlin | 📅 2026-08-17 Real World implementation - "The mother of all demo apps". Written in Kotlin, with Ktor, Arrow, SqlDelight, KotlinX Serialization, etc.
+* [Ktor Arrow Real World Example](https://github.com/nomisRev/ktor-arrow-example) ⭐ 305 | 🐛 10 | 🌐 Kotlin | 📅 2026-08-19 Real World implementation - "The mother of all demo apps". Written in Kotlin, with Ktor, Arrow, SqlDelight, KotlinX Serialization, etc.
 * [KtorEasy](https://github.com/mathias21/KtorEasy) ⭐ 278 | 🐛 3 | 🌐 Kotlin | 📅 2023-02-15 Demonstrates a suggested Ktor architecture. It includes Backend implementation with Ktor, MariaDB database connection with Hikari, Docker command to build Backend container and Docker compose to run both database and backend instance.
 * [RealWorld Kotlin Ktor Backend](https://github.com/dragneelfps/realworld-kotlin-ktor) ⭐ 198 | 🐛 0 | 🌐 Kotlin | 📅 2025-04-19 Kotlin-Ktor codebase containing real world examples (CRUD, auth, advanced patterns, etc) that adheres to the RealWorld spec and API.
 * [Tenistas REST Ktor (Spanish)](https://github.com/joseluisgs/tenistas-rest-ktor-2022-2023) ⭐ 49 | 🐛 0 | 🌐 Kotlin | 📅 2023-06-07 Api REST de Tenistas con Ktor para Programación de Servicios y Procesos de 2º de DAM. Curso 2022/2023.
@@ -101,7 +101,7 @@ Ktor is an asynchronous framework for creating microservices, web applications a
 * [Kweb](https://github.com/kwebio/kweb-core) ⚠️ Archived A streamlined Kotlin web framework built on Ktor that makes it easy to create sophisticated interactive websites.
 * [Ktor OpenAPI Generator](https://github.com/papsign/Ktor-OpenAPI-Generator) ⭐ 252 | 🐛 27 | 🌐 Kotlin | 📅 2022-06-18 Ktor OpenAPI/Swagger 3 Generator.
 * [Tribune](https://github.com/sksamuel/tribune) ⭐ 221 | 🐛 1 | 🌐 Kotlin | 📅 2025-05-28 Multiplatform Kotlin library that builds on Arrow to provide a toolset for creating simple parsers from raw input types, to properly validated parsed types. Designed for usage in Ktor.
-* [Cohort](https://github.com/sksamuel/cohort) ⭐ 185 | 🐛 24 | 🌐 Kotlin | 📅 2026-08-16 Spring Actuator style replacement for Ktor. Provides health checks for orchestrators like Kubernetes and management of logging, databases, JVM settings, memory and threads in production.
+* [Cohort](https://github.com/sksamuel/cohort) ⭐ 185 | 🐛 24 | 🌐 Kotlin | 📅 2026-08-19 Spring Actuator style replacement for Ktor. Provides health checks for orchestrators like Kubernetes and management of logging, databases, JVM settings, memory and threads in production.
 * [Kompendium](https://github.com/bkbnio/kompendium) ⚠️ Archived Intended to be a non-invasive OpenAPI spec generator for Ktor APIs. By operating entirely through Ktor's plugin architecture, it allows you to incrementally document your API without requiring you to rip out and replace the amazing code you have already written.
 * [Ktor OpenAPI Spec Generator](https://github.com/bkbnio/kompendium) ⚠️ Archived
 * [kotlin-kafka](https://github.com/nomisRev/kotlin-kafka) ⭐ 125 | 🐛 20 | 🌐 Kotlin | 📅 2026-07-05 Kafka bindings for Kotlin `suspend`, and Kafka streaming operators for KotlinX Flow. Designed for usage in Ktor.
@@ -125,4 +125,4 @@ Thank you!
 
 ***
 
-> _Enhansomed by [enhansome](https://github.com/enhansome) on 2026-08-19._
+> _Enhansomed by [enhansome](https://github.com/enhansome) on 2026-08-20._
