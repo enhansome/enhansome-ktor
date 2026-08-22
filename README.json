@@ -15,7 +15,7 @@
             "last_commit": "2026-04-23T02:23:34Z",
             "owner": "PatilShreyas",
             "repo": "NotyKT",
-            "stars": 1768
+            "stars": 1769
           }
         },
         {
@@ -60,7 +60,7 @@
             "last_commit": "2026-08-20T15:10:24Z",
             "owner": "nomisRev",
             "repo": "ktor-arrow-example",
-            "stars": 305
+            "stars": 304
           }
         },
         {
@@ -273,7 +273,7 @@
             "archived": false,
             "id": 342731382,
             "language": "Kotlin",
-            "last_commit": "2026-08-19T19:00:38Z",
+            "last_commit": "2026-08-21T09:58:52Z",
             "owner": "sksamuel",
             "repo": "cohort",
             "stars": 185
@@ -423,7 +423,7 @@
             "archived": false,
             "id": 1094544202,
             "language": "Kotlin",
-            "last_commit": "2026-08-14T06:36:31Z",
+            "last_commit": "2026-08-21T15:41:17Z",
             "owner": "nekzabirov",
             "repo": "IGaming-Game-Engine",
             "stars": 21
@@ -449,7 +449,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-08-21T06:43:12.626Z",
+    "last_updated": "2026-08-22T06:37:42.459Z",
     "original_repository": "mjovanc/awesome-ktor",
     "original_repository_id": 612120969,
     "original_repository_sha": "01422a5a030769b4aa6f6514fa3c6681055340d8",
