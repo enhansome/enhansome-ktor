@@ -423,7 +423,7 @@
             "archived": false,
             "id": 1094544202,
             "language": "Kotlin",
-            "last_commit": "2026-08-23T22:59:09Z",
+            "last_commit": "2026-08-24T10:20:17Z",
             "owner": "nekzabirov",
             "repo": "IGaming-Game-Engine",
             "stars": 22
@@ -449,7 +449,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-08-24T06:55:56.725Z",
+    "last_updated": "2026-08-24T14:23:33.549Z",
     "original_repository": "mjovanc/awesome-ktor",
     "original_repository_id": 612120969,
     "original_repository_sha": "01422a5a030769b4aa6f6514fa3c6681055340d8",
