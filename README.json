@@ -57,7 +57,7 @@
             "archived": false,
             "id": 442854737,
             "language": "Kotlin",
-            "last_commit": "2026-08-20T15:10:24Z",
+            "last_commit": "2026-08-25T06:42:41Z",
             "owner": "nomisRev",
             "repo": "ktor-arrow-example",
             "stars": 304
@@ -449,7 +449,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-08-25T06:14:46.367Z",
+    "last_updated": "2026-08-25T06:43:37.252Z",
     "original_repository": "mjovanc/awesome-ktor",
     "original_repository_id": 612120969,
     "original_repository_sha": "01422a5a030769b4aa6f6514fa3c6681055340d8",
