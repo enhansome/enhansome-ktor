@@ -408,7 +408,7 @@
             "archived": false,
             "id": 577029437,
             "language": "Kotlin",
-            "last_commit": "2026-08-17T18:49:34Z",
+            "last_commit": "2026-08-24T17:24:14Z",
             "owner": "nomisRev",
             "repo": "gcp-pubsub-kt",
             "stars": 24
@@ -423,7 +423,7 @@
             "archived": false,
             "id": 1094544202,
             "language": "Kotlin",
-            "last_commit": "2026-08-24T10:20:17Z",
+            "last_commit": "2026-08-24T22:16:59Z",
             "owner": "nekzabirov",
             "repo": "IGaming-Game-Engine",
             "stars": 22
@@ -449,7 +449,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-08-24T14:23:33.549Z",
+    "last_updated": "2026-08-25T06:14:46.367Z",
     "original_repository": "mjovanc/awesome-ktor",
     "original_repository_id": 612120969,
     "original_repository_sha": "01422a5a030769b4aa6f6514fa3c6681055340d8",
