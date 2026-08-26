@@ -30,7 +30,7 @@
             "last_commit": "2026-08-16T00:02:23Z",
             "owner": "ktorio",
             "repo": "ktor-samples",
-            "stars": 1618
+            "stars": 1617
           }
         },
         {
@@ -216,7 +216,7 @@
             "last_commit": "2026-07-27T04:34:58Z",
             "owner": "sksamuel",
             "repo": "hoplite",
-            "stars": 1046
+            "stars": 1045
           }
         },
         {
@@ -273,7 +273,7 @@
             "archived": false,
             "id": 342731382,
             "language": "Kotlin",
-            "last_commit": "2026-08-21T09:58:52Z",
+            "last_commit": "2026-08-25T19:57:31Z",
             "owner": "sksamuel",
             "repo": "cohort",
             "stars": 185
@@ -423,10 +423,10 @@
             "archived": false,
             "id": 1094544202,
             "language": "Kotlin",
-            "last_commit": "2026-08-24T22:16:59Z",
+            "last_commit": "2026-08-25T18:37:19Z",
             "owner": "nekzabirov",
             "repo": "IGaming-Game-Engine",
-            "stars": 22
+            "stars": 23
           }
         },
         {
@@ -449,7 +449,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-08-25T06:43:37.252Z",
+    "last_updated": "2026-08-26T06:46:23.597Z",
     "original_repository": "mjovanc/awesome-ktor",
     "original_repository_id": 612120969,
     "original_repository_sha": "01422a5a030769b4aa6f6514fa3c6681055340d8",
