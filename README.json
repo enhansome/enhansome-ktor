@@ -27,7 +27,7 @@
             "archived": false,
             "id": 118613634,
             "language": "Kotlin",
-            "last_commit": "2026-08-16T00:02:23Z",
+            "last_commit": "2026-08-26T21:53:33Z",
             "owner": "ktorio",
             "repo": "ktor-samples",
             "stars": 1617
@@ -273,7 +273,7 @@
             "archived": false,
             "id": 342731382,
             "language": "Kotlin",
-            "last_commit": "2026-08-25T19:57:31Z",
+            "last_commit": "2026-08-26T21:16:09Z",
             "owner": "sksamuel",
             "repo": "cohort",
             "stars": 185
@@ -449,9 +449,16 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-08-26T06:46:23.597Z",
-    "original_repository": "mjovanc/awesome-ktor",
-    "original_repository_id": 612120969,
+    "last_updated": "2026-08-27T11:50:12.371Z",
+    "original_repository_info": {
+      "archived": false,
+      "id": 612120969,
+      "language": "Kotlin",
+      "last_commit": "2026-05-15T09:09:53Z",
+      "owner": "mjovanc",
+      "repo": "awesome-ktor",
+      "stars": 496
+    },
     "original_repository_sha": "01422a5a030769b4aa6f6514fa3c6681055340d8",
     "enhanced_repository": "enhansome/enhansome-ktor",
     "enhanced_repository_description": null,
