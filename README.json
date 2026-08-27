@@ -57,7 +57,7 @@
             "archived": false,
             "id": 442854737,
             "language": "Kotlin",
-            "last_commit": "2026-08-25T06:42:41Z",
+            "last_commit": "2026-08-27T17:09:58Z",
             "owner": "nomisRev",
             "repo": "ktor-arrow-example",
             "stars": 304
@@ -449,7 +449,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-08-27T11:50:12.371Z",
+    "last_updated": "2026-08-27T17:20:56.379Z",
     "original_repository_info": {
       "archived": false,
       "id": 612120969,
