@@ -16,7 +16,8 @@
             "owner": "PatilShreyas",
             "repo": "NotyKT",
             "stars": 1769
-          }
+          },
+          "first_seen": "2026-08-28T18:13:40.908Z"
         },
         {
           "node_type": "item",
@@ -31,7 +32,8 @@
             "owner": "ktorio",
             "repo": "ktor-samples",
             "stars": 1617
-          }
+          },
+          "first_seen": "2026-08-28T18:13:40.908Z"
         },
         {
           "node_type": "item",
@@ -46,7 +48,8 @@
             "owner": "raharrison",
             "repo": "kotlin-ktor-exposed-starter",
             "stars": 588
-          }
+          },
+          "first_seen": "2026-08-28T18:13:40.908Z"
         },
         {
           "node_type": "item",
@@ -61,7 +64,8 @@
             "owner": "nomisRev",
             "repo": "ktor-arrow-example",
             "stars": 304
-          }
+          },
+          "first_seen": "2026-08-28T18:13:40.908Z"
         },
         {
           "node_type": "item",
@@ -76,7 +80,8 @@
             "owner": "mathias21",
             "repo": "KtorEasy",
             "stars": 278
-          }
+          },
+          "first_seen": "2026-08-28T18:13:40.908Z"
         },
         {
           "node_type": "item",
@@ -91,7 +96,8 @@
             "owner": "dragneelfps",
             "repo": "realworld-kotlin-ktor",
             "stars": 198
-          }
+          },
+          "first_seen": "2026-08-28T18:13:40.908Z"
         },
         {
           "node_type": "item",
@@ -106,7 +112,8 @@
             "owner": "joseluisgs",
             "repo": "tenistas-rest-ktor-2022-2023",
             "stars": 49
-          }
+          },
+          "first_seen": "2026-08-28T18:13:40.908Z"
         },
         {
           "node_type": "item",
@@ -121,7 +128,8 @@
             "owner": "nomisRev",
             "repo": "ktor-k8s-zero-downtime",
             "stars": 42
-          }
+          },
+          "first_seen": "2026-08-28T18:13:40.908Z"
         },
         {
           "node_type": "item",
@@ -136,7 +144,8 @@
             "owner": "xebia-functional",
             "repo": "gh-alerts-subscriptions-kotlin",
             "stars": 34
-          }
+          },
+          "first_seen": "2026-08-28T18:13:40.908Z"
         },
         {
           "node_type": "item",
@@ -151,7 +160,8 @@
             "owner": "Rattlyy",
             "repo": "htmx-ktor",
             "stars": 30
-          }
+          },
+          "first_seen": "2026-08-28T18:13:40.908Z"
         },
         {
           "node_type": "item",
@@ -166,7 +176,8 @@
             "owner": "tkrason",
             "repo": "ktor-koin-mongodb-template",
             "stars": 18
-          }
+          },
+          "first_seen": "2026-08-28T18:13:40.908Z"
         },
         {
           "node_type": "item",
@@ -181,7 +192,8 @@
             "owner": "azlaan95",
             "repo": "kotlin-backend-ktor",
             "stars": 4
-          }
+          },
+          "first_seen": "2026-08-28T18:13:40.908Z"
         }
       ],
       "title": "Educational Projects"
@@ -202,7 +214,8 @@
             "owner": "kosi-libs",
             "repo": "Kodein",
             "stars": 3335
-          }
+          },
+          "first_seen": "2026-08-28T18:13:40.908Z"
         },
         {
           "node_type": "item",
@@ -217,7 +230,8 @@
             "owner": "sksamuel",
             "repo": "hoplite",
             "stars": 1045
-          }
+          },
+          "first_seen": "2026-08-28T18:13:40.908Z"
         },
         {
           "node_type": "item",
@@ -232,7 +246,8 @@
             "owner": "kwebio",
             "repo": "kweb-core",
             "stars": 966
-          }
+          },
+          "first_seen": "2026-08-28T18:13:40.908Z"
         },
         {
           "node_type": "item",
@@ -247,7 +262,8 @@
             "owner": "papsign",
             "repo": "Ktor-OpenAPI-Generator",
             "stars": 252
-          }
+          },
+          "first_seen": "2026-08-28T18:13:40.908Z"
         },
         {
           "node_type": "item",
@@ -262,7 +278,8 @@
             "owner": "sksamuel",
             "repo": "tribune",
             "stars": 221
-          }
+          },
+          "first_seen": "2026-08-28T18:13:40.908Z"
         },
         {
           "node_type": "item",
@@ -277,7 +294,8 @@
             "owner": "sksamuel",
             "repo": "cohort",
             "stars": 185
-          }
+          },
+          "first_seen": "2026-08-28T18:13:40.908Z"
         },
         {
           "node_type": "item",
@@ -292,7 +310,8 @@
             "owner": "bkbnio",
             "repo": "kompendium",
             "stars": 167
-          }
+          },
+          "first_seen": "2026-08-28T18:13:40.908Z"
         },
         {
           "node_type": "item",
@@ -307,7 +326,8 @@
             "owner": "bkbnio",
             "repo": "kompendium",
             "stars": 167
-          }
+          },
+          "first_seen": "2026-08-28T18:13:40.908Z"
         },
         {
           "node_type": "item",
@@ -322,7 +342,8 @@
             "owner": "nomisRev",
             "repo": "kotlin-kafka",
             "stars": 125
-          }
+          },
+          "first_seen": "2026-08-28T18:13:40.908Z"
         },
         {
           "node_type": "item",
@@ -337,7 +358,8 @@
             "owner": "Flaxoos",
             "repo": "extra-ktor-plugins",
             "stars": 106
-          }
+          },
+          "first_seen": "2026-08-28T18:13:40.908Z"
         },
         {
           "node_type": "item",
@@ -352,7 +374,8 @@
             "owner": "arrow-kt",
             "repo": "suspendapp",
             "stars": 78
-          }
+          },
+          "first_seen": "2026-08-28T18:13:40.908Z"
         },
         {
           "node_type": "item",
@@ -367,7 +390,8 @@
             "owner": "kryptokrona",
             "repo": "kryptokrona-kotlin-sdk",
             "stars": 54
-          }
+          },
+          "first_seen": "2026-08-28T18:13:40.908Z"
         },
         {
           "node_type": "item",
@@ -382,7 +406,8 @@
             "owner": "kryptokrona",
             "repo": "kryptokrona-api",
             "stars": 39
-          }
+          },
+          "first_seen": "2026-08-28T18:13:40.908Z"
         },
         {
           "node_type": "item",
@@ -397,7 +422,8 @@
             "owner": "zensum",
             "repo": "ktor-health-check",
             "stars": 35
-          }
+          },
+          "first_seen": "2026-08-28T18:13:40.908Z"
         },
         {
           "node_type": "item",
@@ -412,7 +438,8 @@
             "owner": "nomisRev",
             "repo": "gcp-pubsub-kt",
             "stars": 24
-          }
+          },
+          "first_seen": "2026-08-28T18:13:40.908Z"
         },
         {
           "node_type": "item",
@@ -423,11 +450,12 @@
             "archived": false,
             "id": 1094544202,
             "language": "Kotlin",
-            "last_commit": "2026-08-25T18:37:19Z",
+            "last_commit": "2026-08-28T13:35:58Z",
             "owner": "nekzabirov",
             "repo": "IGaming-Game-Engine",
             "stars": 23
-          }
+          },
+          "first_seen": "2026-08-28T18:13:40.908Z"
         },
         {
           "node_type": "item",
@@ -442,14 +470,15 @@
             "owner": "iammohdzaki",
             "repo": "Starter-Project-Ktor",
             "stars": 10
-          }
+          },
+          "first_seen": "2026-08-28T18:13:40.908Z"
         }
       ],
       "title": "Ktor Projects"
     }
   ],
   "metadata": {
-    "last_updated": "2026-08-27T17:20:56.379Z",
+    "last_updated": "2026-08-28T18:13:40.908Z",
     "original_repository_info": {
       "archived": false,
       "id": 612120969,
