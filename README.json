@@ -10,12 +10,37 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "📒 NotyKT is a complete 💎Kotlin-stack (Backend + Android) 📱 application built to demonstrate the use of Modern development tools with best practices implementation🦸.",
+            "homepage": "https://patilshreyas.github.io/NotyKT/",
             "id": 303164275,
             "language": "Kotlin",
+            "license": "Apache-2.0",
             "last_commit": "2026-04-23T02:23:34Z",
+            "open_issues": 12,
             "owner": "PatilShreyas",
             "repo": "NotyKT",
-            "stars": 1769
+            "stars": 1769,
+            "topics": [
+              "android",
+              "api",
+              "backend",
+              "coroutines",
+              "coroutines-android",
+              "dependency-injection",
+              "flow",
+              "hacktoberfest",
+              "hilt-android",
+              "jetpack-compose",
+              "kotlin",
+              "ktor",
+              "mvvm-android",
+              "mvvm-architecture",
+              "navigation-architecture-component",
+              "rest-api",
+              "retrofit2",
+              "testing",
+              "viewbinding"
+            ]
           },
           "first_seen": "2026-08-28T18:13:40.908Z"
         },
@@ -26,12 +51,17 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "Sample projects for Ktor",
+            "homepage": null,
             "id": 118613634,
             "language": "Kotlin",
+            "license": "Apache-2.0",
             "last_commit": "2026-08-26T21:53:33Z",
+            "open_issues": 14,
             "owner": "ktorio",
             "repo": "ktor-samples",
-            "stars": 1617
+            "stars": 1617,
+            "topics": []
           },
           "first_seen": "2026-08-28T18:13:40.908Z"
         },
@@ -42,12 +72,28 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "Starter RESTful service with websocket notifications using Kotlin, Ktor and Exposed with H2, HikariCP and FlyWay",
+            "homepage": null,
             "id": 123470901,
             "language": "Kotlin",
+            "license": null,
             "last_commit": "2026-07-23T16:50:15Z",
+            "open_issues": 0,
             "owner": "raharrison",
             "repo": "kotlin-ktor-exposed-starter",
-            "stars": 588
+            "stars": 588,
+            "topics": [
+              "exposed",
+              "flyway",
+              "h2-database",
+              "jackson",
+              "kotlin",
+              "kotlin-coroutines",
+              "ktor",
+              "netty",
+              "rest-api",
+              "websocket"
+            ]
           },
           "first_seen": "2026-08-28T18:13:40.908Z"
         },
@@ -58,12 +104,28 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "Real World implementation - \"The mother of all demo apps\". Written in Kotlin, with Ktor, Arrow, SqlDelight, KotlinX Serialization, etc.",
+            "homepage": null,
             "id": 442854737,
             "language": "Kotlin",
+            "license": "Apache-2.0",
             "last_commit": "2026-08-27T17:09:58Z",
+            "open_issues": 10,
             "owner": "nomisRev",
             "repo": "ktor-arrow-example",
-            "stars": 304
+            "stars": 304,
+            "topics": [
+              "arrow-kt",
+              "hacktoberfest",
+              "kotest",
+              "kotlin",
+              "kotlinx-coroutines",
+              "kotlinx-serialization",
+              "ktor",
+              "ktor-server",
+              "postgresql",
+              "sqldelight"
+            ]
           },
           "first_seen": "2026-08-28T18:13:40.908Z"
         },
@@ -74,12 +136,26 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "Suggested Ktor architecture",
+            "homepage": null,
             "id": 281910196,
             "language": "Kotlin",
+            "license": "GPL-3.0",
             "last_commit": "2023-02-15T12:05:13Z",
+            "open_issues": 3,
             "owner": "mathias21",
             "repo": "KtorEasy",
-            "stars": 278
+            "stars": 278,
+            "topics": [
+              "docker",
+              "docker-compose",
+              "grafana",
+              "hacktoberfest",
+              "koin",
+              "kotlin",
+              "ktor",
+              "prometheus"
+            ]
           },
           "first_seen": "2026-08-28T18:13:40.908Z"
         },
@@ -90,12 +166,17 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "RealWorld Kotlin Ktor Backend",
+            "homepage": "https://realworld.io/",
             "id": 192593564,
             "language": "Kotlin",
+            "license": null,
             "last_commit": "2025-04-19T19:30:14Z",
+            "open_issues": 0,
             "owner": "dragneelfps",
             "repo": "realworld-kotlin-ktor",
-            "stars": 198
+            "stars": 198,
+            "topics": []
           },
           "first_seen": "2026-08-28T18:13:40.908Z"
         },
@@ -106,12 +187,19 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "Api REST para la gestión de tenistas usando Kotlin y Ktor. Programación de Servicios y Procesos. 2º DAM.",
+            "homepage": null,
             "id": 588237416,
             "language": "Kotlin",
+            "license": null,
             "last_commit": "2023-06-07T08:48:20Z",
+            "open_issues": 0,
             "owner": "joseluisgs",
             "repo": "tenistas-rest-ktor-2022-2023",
-            "stars": 49
+            "stars": 49,
+            "topics": [
+              "kotlin"
+            ]
           },
           "first_seen": "2026-08-28T18:13:40.908Z"
         },
@@ -122,12 +210,25 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "Kotlin Native Ktor server with K8s zero-downtime demo",
+            "homepage": "https://www.youtube.com/watch?v=zKrTBH8jqH4",
             "id": 602039525,
             "language": "Kotlin",
+            "license": "Apache-2.0",
             "last_commit": "2023-02-22T17:12:51Z",
+            "open_issues": 0,
             "owner": "nomisRev",
             "repo": "ktor-k8s-zero-downtime",
-            "stars": 42
+            "stars": 42,
+            "topics": [
+              "arrow-kt",
+              "functional-programming",
+              "kotlin-coroutines",
+              "kotlin-native",
+              "ktor",
+              "kubernetes",
+              "microservices"
+            ]
           },
           "first_seen": "2026-08-28T18:13:40.908Z"
         },
@@ -138,12 +239,17 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "Kotlin Training Track - Subscription Service",
+            "homepage": null,
             "id": 502058350,
             "language": "Kotlin",
+            "license": null,
             "last_commit": "2023-09-09T00:00:37Z",
+            "open_issues": 7,
             "owner": "xebia-functional",
             "repo": "gh-alerts-subscriptions-kotlin",
-            "stars": 34
+            "stars": 34,
+            "topics": []
           },
           "first_seen": "2026-08-28T18:13:40.908Z"
         },
@@ -154,12 +260,17 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "todo app with htmx and ktor",
+            "homepage": null,
             "id": 682246192,
             "language": "Kotlin",
+            "license": "Unlicense",
             "last_commit": "2026-01-25T14:11:08Z",
+            "open_issues": 1,
             "owner": "Rattlyy",
             "repo": "htmx-ktor",
-            "stars": 30
+            "stars": 30,
+            "topics": []
           },
           "first_seen": "2026-08-28T18:13:40.908Z"
         },
@@ -170,12 +281,17 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "Template for Ktor with Koin (dependency injection) and MongoDB",
+            "homepage": null,
             "id": 661290043,
             "language": "Kotlin",
+            "license": null,
             "last_commit": "2023-07-11T06:59:41Z",
+            "open_issues": 0,
             "owner": "tkrason",
             "repo": "ktor-koin-mongodb-template",
-            "stars": 18
+            "stars": 18,
+            "topics": []
           },
           "first_seen": "2026-08-28T18:13:40.908Z"
         },
@@ -186,12 +302,17 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "A demonstration of how we can use Kotlin as Backed with Ktor",
+            "homepage": null,
             "id": 670599347,
             "language": "Kotlin",
+            "license": null,
             "last_commit": "2023-08-24T07:14:57Z",
+            "open_issues": 0,
             "owner": "azlaan95",
             "repo": "kotlin-backend-ktor",
-            "stars": 4
+            "stars": 4,
+            "topics": []
           },
           "first_seen": "2026-08-28T18:13:40.908Z"
         }
@@ -208,12 +329,30 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "Painless Kotlin Dependency Injection",
+            "homepage": "https://kosi-libs.org/kodein",
             "id": 34046231,
             "language": "Kotlin",
+            "license": "MIT",
             "last_commit": "2026-07-21T07:40:56Z",
+            "open_issues": 8,
             "owner": "kosi-libs",
             "repo": "Kodein",
-            "stars": 3335
+            "stars": 3335,
+            "topics": [
+              "android",
+              "compose",
+              "compose-desktop",
+              "injection",
+              "kodein",
+              "kodein-di",
+              "kodein-framework",
+              "kotlin",
+              "kotlin-dependency-injection",
+              "kotlin-multiplatform",
+              "ktor",
+              "tornadofx"
+            ]
           },
           "first_seen": "2026-08-28T18:13:40.908Z"
         },
@@ -224,12 +363,24 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "A boilerplate-free Kotlin config library for loading configuration files as data classes",
+            "homepage": null,
             "id": 187727131,
             "language": "Kotlin",
+            "license": "Apache-2.0",
             "last_commit": "2026-07-27T04:34:58Z",
+            "open_issues": 18,
             "owner": "sksamuel",
             "repo": "hoplite",
-            "stars": 1045
+            "stars": 1045,
+            "topics": [
+              "config",
+              "config-loader",
+              "configuration",
+              "kotlin",
+              "library",
+              "yaml"
+            ]
           },
           "first_seen": "2026-08-28T18:13:40.908Z"
         },
@@ -240,12 +391,24 @@
           "children": [],
           "repo_info": {
             "archived": true,
+            "description": "A Kotlin web framework",
+            "homepage": "https://docs.kweb.io/book",
             "id": 78316423,
             "language": "Kotlin",
+            "license": "LGPL-3.0",
             "last_commit": "2024-08-03T14:55:08Z",
+            "open_issues": 12,
             "owner": "kwebio",
             "repo": "kweb-core",
-            "stars": 966
+            "stars": 966,
+            "topics": [
+              "dom",
+              "html",
+              "kotlin",
+              "ktor",
+              "web-framework",
+              "web-performance"
+            ]
           },
           "first_seen": "2026-08-28T18:13:40.908Z"
         },
@@ -256,12 +419,26 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "Ktor OpenAPI/Swagger 3 Generator",
+            "homepage": null,
             "id": 186148881,
             "language": "Kotlin",
+            "license": "Apache-2.0",
             "last_commit": "2022-06-18T22:07:14Z",
+            "open_issues": 27,
             "owner": "papsign",
             "repo": "Ktor-OpenAPI-Generator",
-            "stars": 252
+            "stars": 252,
+            "topics": [
+              "kotlin",
+              "ktor",
+              "ktor-framework",
+              "ktor-openapi-generator",
+              "openapi",
+              "openapi-generator",
+              "swagger",
+              "swagger-ui"
+            ]
           },
           "first_seen": "2026-08-28T18:13:40.908Z"
         },
@@ -272,12 +449,23 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "Kotlin 'parse not validate'",
+            "homepage": null,
             "id": 10692938,
             "language": "Kotlin",
+            "license": "Apache-2.0",
             "last_commit": "2025-05-28T21:07:34Z",
+            "open_issues": 1,
             "owner": "sksamuel",
             "repo": "tribune",
-            "stars": 221
+            "stars": 221,
+            "topics": [
+              "arrow-kt",
+              "functional-programming",
+              "kotlin",
+              "ktor",
+              "validation"
+            ]
           },
           "first_seen": "2026-08-28T18:13:40.908Z"
         },
@@ -288,12 +476,22 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "Ktor/Vertx spring-actuator style library - healthchecks, logging, database",
+            "homepage": null,
             "id": 342731382,
             "language": "Kotlin",
+            "license": "Apache-2.0",
             "last_commit": "2026-08-26T21:16:09Z",
+            "open_issues": 24,
             "owner": "sksamuel",
             "repo": "cohort",
-            "stars": 185
+            "stars": 185,
+            "topics": [
+              "actuator",
+              "kotlin",
+              "ktor",
+              "vertx"
+            ]
           },
           "first_seen": "2026-08-28T18:13:40.908Z"
         },
@@ -304,12 +502,23 @@
           "children": [],
           "repo_info": {
             "archived": true,
+            "description": "Ktor OpenAPI Spec Generator",
+            "homepage": "https://bkbn.gitbook.io/kompendium",
             "id": 356919425,
             "language": "Kotlin",
+            "license": "MIT",
             "last_commit": "2025-03-31T18:56:15Z",
+            "open_issues": 19,
             "owner": "bkbnio",
             "repo": "kompendium",
-            "stars": 167
+            "stars": 167,
+            "topics": [
+              "hacktoberfest",
+              "kotlin",
+              "ktor",
+              "ktor-openapi-generator",
+              "openapi"
+            ]
           },
           "first_seen": "2026-08-28T18:13:40.908Z"
         },
@@ -320,12 +529,23 @@
           "children": [],
           "repo_info": {
             "archived": true,
+            "description": "Ktor OpenAPI Spec Generator",
+            "homepage": "https://bkbn.gitbook.io/kompendium",
             "id": 356919425,
             "language": "Kotlin",
+            "license": "MIT",
             "last_commit": "2025-03-31T18:56:15Z",
+            "open_issues": 19,
             "owner": "bkbnio",
             "repo": "kompendium",
-            "stars": 167
+            "stars": 167,
+            "topics": [
+              "hacktoberfest",
+              "kotlin",
+              "ktor",
+              "ktor-openapi-generator",
+              "openapi"
+            ]
           },
           "first_seen": "2026-08-28T18:13:40.908Z"
         },
@@ -336,12 +556,28 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "Kafka bindings for Kotlin `suspend`, and Kafka streaming operators for KotlinX Flow.",
+            "homepage": "https://nomisRev.github.io/kotlin-kafka/",
             "id": 428349598,
             "language": "Kotlin",
+            "license": "Apache-2.0",
             "last_commit": "2026-07-05T09:39:57Z",
+            "open_issues": 23,
             "owner": "nomisRev",
             "repo": "kotlin-kafka",
-            "stars": 125
+            "stars": 125,
+            "topics": [
+              "hacktoberfest",
+              "kafka",
+              "kafka-client",
+              "kafka-consumer",
+              "kafka-producer",
+              "kotlin",
+              "kotlin-coroutines",
+              "kotlinx-coroutines",
+              "reactive",
+              "streaming"
+            ]
           },
           "first_seen": "2026-08-28T18:13:40.908Z"
         },
@@ -352,12 +588,22 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "Feature-rich, efficient, and highly customizable plugins for your Multiplatform Ktor Server or Client",
+            "homepage": "https://flaxoos.github.io/extra-ktor-plugins/",
             "id": 675010928,
             "language": "Kotlin",
+            "license": "NOASSERTION",
             "last_commit": "2026-04-01T11:57:15Z",
+            "open_issues": 24,
             "owner": "Flaxoos",
             "repo": "extra-ktor-plugins",
-            "stars": 106
+            "stars": 106,
+            "topics": [
+              "kotlin",
+              "kotlin-multiplatform",
+              "ktor",
+              "ktor-plugin"
+            ]
           },
           "first_seen": "2026-08-28T18:13:40.908Z"
         },
@@ -368,12 +614,27 @@
           "children": [],
           "repo_info": {
             "archived": true,
+            "description": "Reason about resource-safety in the same way you reason about Structured Concurrency with SuspendApp!",
+            "homepage": "https://arrow-kt.github.io/suspendapp/",
             "id": 519111903,
             "language": "Kotlin",
+            "license": "Apache-2.0",
             "last_commit": "2025-04-22T06:37:44Z",
+            "open_issues": 14,
             "owner": "arrow-kt",
             "repo": "suspendapp",
-            "stars": 78
+            "stars": 78,
+            "topics": [
+              "arrow-kt",
+              "kotlin",
+              "kotlin-coroutines",
+              "kotlin-jvm",
+              "kotlin-multiplatform",
+              "kotlin-native",
+              "kotlin-nodejs",
+              "kotlinx-coroutines",
+              "structured-concurrency"
+            ]
           },
           "first_seen": "2026-08-28T18:13:40.908Z"
         },
@@ -384,12 +645,38 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "Build decentralized private communication/payment systems in Kotlin.",
+            "homepage": "https://sdk.kryptokrona.org",
             "id": 579217789,
             "language": "Kotlin",
+            "license": "NOASSERTION",
             "last_commit": "2023-08-14T07:32:57Z",
+            "open_issues": 26,
             "owner": "kryptokrona",
             "repo": "kryptokrona-kotlin-sdk",
-            "stars": 54
+            "stars": 54,
+            "topics": [
+              "android",
+              "blockchain",
+              "c",
+              "coroutines",
+              "crypto",
+              "cryptocurrency",
+              "cryptography",
+              "cryptonote",
+              "decentralized",
+              "gradle",
+              "gradle-kotlin-dsl",
+              "jni",
+              "jvm",
+              "kotlin",
+              "kotlin-dsl",
+              "kotlin-library",
+              "kryptokrona",
+              "sdk",
+              "web3",
+              "xkr"
+            ]
           },
           "first_seen": "2026-08-28T18:13:40.908Z"
         },
@@ -400,12 +687,34 @@
           "children": [],
           "repo_info": {
             "archived": true,
+            "description": "Kryptokrona API for caching and processing data from the blockchain.",
+            "homepage": "https://kryptokrona.org",
             "id": 603247846,
             "language": "Kotlin",
+            "license": "NOASSERTION",
             "last_commit": "2023-07-06T18:16:32Z",
+            "open_issues": 37,
             "owner": "kryptokrona",
             "repo": "kryptokrona-api",
-            "stars": 39
+            "stars": 39,
+            "topics": [
+              "ansible",
+              "blockchain",
+              "crypto",
+              "cryptocurrency",
+              "docker",
+              "gradle",
+              "kotlin",
+              "kotlin-dsl",
+              "kryptokrona",
+              "kryptokrona-sdk",
+              "ktor",
+              "ktor-framework",
+              "ktor-server",
+              "svelte",
+              "sveltekit",
+              "xkr"
+            ]
           },
           "first_seen": "2026-08-28T18:13:40.908Z"
         },
@@ -416,12 +725,22 @@
           "children": [],
           "repo_info": {
             "archived": true,
+            "description": "Simple, opinionated health checks Kubernetes-style health checks for ktor",
+            "homepage": null,
             "id": 100628460,
             "language": "Kotlin",
+            "license": "MIT",
             "last_commit": "2022-04-19T09:00:46Z",
+            "open_issues": 1,
             "owner": "zensum",
             "repo": "ktor-health-check",
-            "stars": 35
+            "stars": 35,
+            "topics": [
+              "kotlin",
+              "ktor",
+              "kubernetes",
+              "monitoring"
+            ]
           },
           "first_seen": "2026-08-28T18:13:40.908Z"
         },
@@ -432,12 +751,31 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "Ktor Plugin and Kotlin(X) integrations for GCP PubSub",
+            "homepage": "https://nomisrev.github.io/kotlin-gcp-pubsub/",
             "id": 577029437,
             "language": "Kotlin",
+            "license": "Apache-2.0",
             "last_commit": "2026-08-24T17:24:14Z",
+            "open_issues": 3,
             "owner": "nomisRev",
             "repo": "gcp-pubsub-kt",
-            "stars": 24
+            "stars": 24,
+            "topics": [
+              "gcp",
+              "gcp-pubsub",
+              "google-cloud-platform",
+              "google-cloud-pubsub",
+              "kotlin",
+              "kotlin-coroutines",
+              "kotlin-serialization",
+              "kotlinx-coroutines",
+              "kotlinx-serialization",
+              "ktor",
+              "ktor-plugin",
+              "ktor-server",
+              "pubsub"
+            ]
           },
           "first_seen": "2026-08-28T18:13:40.908Z"
         },
@@ -448,12 +786,38 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "Open-source iGaming/casino engine in Kotlin/Ktor — aggregator integrations (Pragmatic Play, OneGameHub, Pateplay), betting lifecycle, freespins, gRPC API. Hexagonal + DDD + CQRS, RabbitMQ event-driven. Apache 2.0.",
+            "homepage": "https://1638.cloud/",
             "id": 1094544202,
             "language": "Kotlin",
+            "license": "Apache-2.0",
             "last_commit": "2026-08-28T13:35:58Z",
+            "open_issues": 0,
             "owner": "nekzabirov",
             "repo": "IGaming-Game-Engine",
-            "stars": 23
+            "stars": 23,
+            "topics": [
+              "casino",
+              "casino-games",
+              "casino-gaming-platforms",
+              "cqrs",
+              "domain-driven-design",
+              "event-driven",
+              "gambling",
+              "grpc",
+              "hexagonal-architecture",
+              "igaming",
+              "igaming-software",
+              "kotlin",
+              "ktor",
+              "microservice",
+              "onegamehub",
+              "pateplay",
+              "pragmatic-play",
+              "rabbitmq",
+              "slots",
+              "turnkey-casino-solutions"
+            ]
           },
           "first_seen": "2026-08-28T18:13:40.908Z"
         },
@@ -464,12 +828,17 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "This is a starter project for building server-side applications using Ktor, a framework for building asynchronous servers and clients in connected systems. This template integrates MongoDB for database operations, Koin for dependency injection, and Swagger for API documentation. Serialization is handled using Kotlin Serialization.",
+            "homepage": null,
             "id": 552226976,
             "language": "Kotlin",
+            "license": "MIT",
             "last_commit": "2025-10-30T02:27:10Z",
+            "open_issues": 5,
             "owner": "iammohdzaki",
             "repo": "Starter-Project-Ktor",
-            "stars": 10
+            "stars": 10,
+            "topics": []
           },
           "first_seen": "2026-08-28T18:13:40.908Z"
         }
@@ -478,15 +847,25 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-08-28T18:13:40.908Z",
+    "last_updated": "2026-08-29T04:41:57.651Z",
     "original_repository_info": {
       "archived": false,
+      "description": "Awesome books, tutorials, courses, and resources for the Ktor framework ecosystem. ⚡",
+      "homepage": "https://ktor.io",
       "id": 612120969,
       "language": "Kotlin",
+      "license": "CC0-1.0",
       "last_commit": "2026-05-15T09:09:53Z",
+      "open_issues": 0,
       "owner": "mjovanc",
       "repo": "awesome-ktor",
-      "stars": 496
+      "stars": 496,
+      "topics": [
+        "awesome",
+        "awesome-list",
+        "kotlin",
+        "ktor"
+      ]
     },
     "original_repository_sha": "01422a5a030769b4aa6f6514fa3c6681055340d8",
     "enhanced_repository": "enhansome/enhansome-ktor",
