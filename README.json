@@ -60,7 +60,7 @@
             "open_issues": 14,
             "owner": "ktorio",
             "repo": "ktor-samples",
-            "stars": 1617,
+            "stars": 1616,
             "topics": []
           },
           "first_seen": "2026-08-28T18:13:40.908Z"
@@ -847,7 +847,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-08-29T12:19:52.220Z",
+    "last_updated": "2026-08-30T11:18:45.659Z",
     "original_repository_info": {
       "archived": false,
       "description": "Awesome books, tutorials, courses, and resources for the Ktor framework ecosystem. ⚡",
