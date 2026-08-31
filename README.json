@@ -145,7 +145,7 @@
             "open_issues": 3,
             "owner": "mathias21",
             "repo": "KtorEasy",
-            "stars": 278,
+            "stars": 279,
             "topics": [
               "docker",
               "docker-compose",
@@ -791,7 +791,7 @@
             "id": 1094544202,
             "language": "Kotlin",
             "license": "Apache-2.0",
-            "last_commit": "2026-08-29T11:23:10Z",
+            "last_commit": "2026-08-30T21:32:33Z",
             "open_issues": 0,
             "owner": "nekzabirov",
             "repo": "IGaming-Game-Engine",
@@ -847,7 +847,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-08-30T11:18:45.659Z",
+    "last_updated": "2026-08-31T12:47:01.192Z",
     "original_repository_info": {
       "archived": false,
       "description": "Awesome books, tutorials, courses, and resources for the Ktor framework ecosystem. ⚡",
