@@ -101,11 +101,11 @@ Ktor is an asynchronous framework for creating microservices, web applications a
 * [Kweb](https://github.com/kwebio/kweb-core) ⚠️ Archived A streamlined Kotlin web framework built on Ktor that makes it easy to create sophisticated interactive websites.
 * [Ktor OpenAPI Generator](https://github.com/papsign/Ktor-OpenAPI-Generator) ⭐ 252 | 🐛 27 | 🌐 Kotlin | 📅 2022-06-18 Ktor OpenAPI/Swagger 3 Generator.
 * [Tribune](https://github.com/sksamuel/tribune) ⭐ 221 | 🐛 1 | 🌐 Kotlin | 📅 2025-05-28 Multiplatform Kotlin library that builds on Arrow to provide a toolset for creating simple parsers from raw input types, to properly validated parsed types. Designed for usage in Ktor.
-* [Cohort](https://github.com/sksamuel/cohort) ⭐ 185 | 🐛 24 | 🌐 Kotlin | 📅 2026-08-26 Spring Actuator style replacement for Ktor. Provides health checks for orchestrators like Kubernetes and management of logging, databases, JVM settings, memory and threads in production.
+* [Cohort](https://github.com/sksamuel/cohort) ⭐ 185 | 🐛 24 | 🌐 Kotlin | 📅 2026-09-01 Spring Actuator style replacement for Ktor. Provides health checks for orchestrators like Kubernetes and management of logging, databases, JVM settings, memory and threads in production.
 * [Kompendium](https://github.com/bkbnio/kompendium) ⚠️ Archived Intended to be a non-invasive OpenAPI spec generator for Ktor APIs. By operating entirely through Ktor's plugin architecture, it allows you to incrementally document your API without requiring you to rip out and replace the amazing code you have already written.
 * [Ktor OpenAPI Spec Generator](https://github.com/bkbnio/kompendium) ⚠️ Archived
 * [kotlin-kafka](https://github.com/nomisRev/kotlin-kafka) ⭐ 125 | 🐛 23 | 🌐 Kotlin | 📅 2026-07-05 Kafka bindings for Kotlin `suspend`, and Kafka streaming operators for KotlinX Flow. Designed for usage in Ktor.
-* [Extra Ktor Plugins](https://github.com/Flaxoos/extra-ktor-plugins) ⭐ 106 | 🐛 24 | 🌐 Kotlin | 📅 2026-04-01 A library of extra plugins for multiplatform ktor server / client, including a plugin for Kafka, a flexible rate limiter plugin and a circuit breaker for ktor clients
+* [Extra Ktor Plugins](https://github.com/Flaxoos/extra-ktor-plugins) ⭐ 106 | 🐛 25 | 🌐 Kotlin | 📅 2026-04-01 A library of extra plugins for multiplatform ktor server / client, including a plugin for Kafka, a flexible rate limiter plugin and a circuit breaker for ktor clients
 * [SuspendApp with Ktor](https://github.com/arrow-kt/suspendapp#suspendapp-with-ktor) ⚠️ Archived The module suspendapp-ktor provides a server constructor that lifts the Ktor ApplicationEngine in to a Resource, representing the Engine running an Application(i.e Netty) while supporting auto-reload.
 * [Kryptokrona Kotlin SDK](https://github.com/kryptokrona/kryptokrona-kotlin-sdk) ⭐ 54 | 🐛 26 | 🌐 Kotlin | 📅 2023-08-14 Kryptokrona SDK in Kotlin for building decentralized private communication and payment systems. Uses Ktor client library to fetch data from RPC.
 * [Kryptokrona API](https://github.com/kryptokrona/kryptokrona-api) ⚠️ Archived For caching and processing data from the blockchain to provide faster access for services.
@@ -125,4 +125,4 @@ Thank you!
 
 ***
 
-> _Enhansomed by [enhansome](https://github.com/enhansome) on 2026-09-01._
+> _Enhansomed by [enhansome](https://github.com/enhansome) on 2026-09-02._
