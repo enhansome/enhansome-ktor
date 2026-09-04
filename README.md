@@ -53,9 +53,9 @@ Ktor is an asynchronous framework for creating microservices, web applications a
 * [NotyKT](https://github.com/PatilShreyas/NotyKT) ⭐ 1,769 | 🐛 12 | 🌐 Kotlin | 📅 2026-04-23 NotyKT is the complete Kotlin-stack note taking application built to demonstrate a use of Kotlin programming language in server-side and Modern Android development tools.  REST API built using Ktor.
 * [Samples for Ktor](https://github.com/ktorio/ktor-samples) ⭐ 1,616 | 🐛 14 | 🌐 Kotlin | 📅 2026-08-26 A collection of ready-to-use samples for Ktor.
 * [Starter project to create a simple RESTful web service in Kotlin](https://github.com/raharrison/kotlin-ktor-exposed-starter) ⭐ 588 | 🐛 0 | 🌐 Kotlin | 📅 2026-07-23 Starter RESTful service with websocket notifications using Kotlin, Ktor and Exposed with H2, HikariCP and FlyWay.
-* [Ktor Arrow Real World Example](https://github.com/nomisRev/ktor-arrow-example) ⭐ 304 | 🐛 11 | 🌐 Kotlin | 📅 2026-09-03 Real World implementation - "The mother of all demo apps". Written in Kotlin, with Ktor, Arrow, SqlDelight, KotlinX Serialization, etc.
+* [Ktor Arrow Real World Example](https://github.com/nomisRev/ktor-arrow-example) ⭐ 305 | 🐛 11 | 🌐 Kotlin | 📅 2026-09-03 Real World implementation - "The mother of all demo apps". Written in Kotlin, with Ktor, Arrow, SqlDelight, KotlinX Serialization, etc.
 * [KtorEasy](https://github.com/mathias21/KtorEasy) ⭐ 279 | 🐛 3 | 🌐 Kotlin | 📅 2023-02-15 Demonstrates a suggested Ktor architecture. It includes Backend implementation with Ktor, MariaDB database connection with Hikari, Docker command to build Backend container and Docker compose to run both database and backend instance.
-* [RealWorld Kotlin Ktor Backend](https://github.com/dragneelfps/realworld-kotlin-ktor) ⭐ 198 | 🐛 0 | 🌐 Kotlin | 📅 2025-04-19 Kotlin-Ktor codebase containing real world examples (CRUD, auth, advanced patterns, etc) that adheres to the RealWorld spec and API.
+* [RealWorld Kotlin Ktor Backend](https://github.com/dragneelfps/realworld-kotlin-ktor) ⭐ 199 | 🐛 0 | 🌐 Kotlin | 📅 2025-04-19 Kotlin-Ktor codebase containing real world examples (CRUD, auth, advanced patterns, etc) that adheres to the RealWorld spec and API.
 * [Tenistas REST Ktor (Spanish)](https://github.com/joseluisgs/tenistas-rest-ktor-2022-2023) ⭐ 49 | 🐛 0 | 🌐 Kotlin | 📅 2023-06-07 Api REST de Tenistas con Ktor para Programación de Servicios y Procesos de 2º de DAM. Curso 2022/2023.
 * [Kotlin Native Server](https://github.com/nomisRev/ktor-k8s-zero-downtime) ⭐ 42 | 🐛 0 | 🌐 Kotlin | 📅 2023-02-22 Kotlin Native Ktor server with K8s zero-downtime demo.
 * [github-alerts-kotlin](https://github.com/47deg/gh-alerts-subscriptions-kotlin) ⭐ 34 | 🐛 7 | 🌐 Kotlin | 📅 2023-09-09 Example implementation of the subscription microservice (Ktor flavour).
@@ -96,7 +96,7 @@ Ktor is an asynchronous framework for creating microservices, web applications a
 
 ## Ktor Projects
 
-* [Kodein](https://github.com/kosi-libs/Kodein) ⭐ 3,335 | 🐛 8 | 🌐 Kotlin | 📅 2026-07-21 Kodein is a very simple and yet very useful dependency retrieval container. it is very easy to use and configure.
+* [Kodein](https://github.com/kosi-libs/Kodein) ⭐ 3,336 | 🐛 8 | 🌐 Kotlin | 📅 2026-07-21 Kodein is a very simple and yet very useful dependency retrieval container. it is very easy to use and configure.
 * [Hoplite](https://github.com/sksamuel/hoplite) ⭐ 1,045 | 🐛 18 | 🌐 Kotlin | 📅 2026-07-27 Kotlin library for loading configuration files into typesafe classes in a boilerplate-free way. Define your config using Kotlin data classes, and at startup Hoplite will read from one or more config files, mapping the values in those files into your config classes. Designed for usage in Ktor.
 * [Kweb](https://github.com/kwebio/kweb-core) ⚠️ Archived A streamlined Kotlin web framework built on Ktor that makes it easy to create sophisticated interactive websites.
 * [Ktor OpenAPI Generator](https://github.com/papsign/Ktor-OpenAPI-Generator) ⭐ 252 | 🐛 27 | 🌐 Kotlin | 📅 2022-06-18 Ktor OpenAPI/Swagger 3 Generator.
@@ -111,7 +111,7 @@ Ktor is an asynchronous framework for creating microservices, web applications a
 * [Kryptokrona API](https://github.com/kryptokrona/kryptokrona-api) ⚠️ Archived For caching and processing data from the blockchain to provide faster access for services.
 * [ktor-health-check](https://github.com/zensum/ktor-health-check) ⚠️ Archived Simple, opinionated ktor health and readiness checks made for Kubernetes.
 * [Kotlin GCP Pubsub](https://github.com/nomisRev/kotlin-gcp-pubsub) ⭐ 24 | 🐛 6 | 🌐 Kotlin | 📅 2026-08-31 A Ktor Plugin for convenient, and easy integrating with to Google Cloud Platform PubSub, includes testing support and integration with KotlinX Serialization.
-* [Casino Engine](https://github.com/nekzabirov/IGaming-Game-Engine) ⭐ 23 | 🐛 0 | 🌐 Kotlin | 📅 2026-08-30 Production-grade open-source iGaming/casino engine built on Ktor. Game aggregator integrations (Pragmatic Play, OneGameHub, Pateplay), session orchestration, betting lifecycle (place/settle/rollback), and freespin mechanics. Exposes a gRPC API and publishes RabbitMQ events. Hexagonal architecture with DDD and CQRS. Apache 2.0.
+* [Casino Engine](https://github.com/nekzabirov/IGaming-Game-Engine) ⭐ 22 | 🐛 0 | 🌐 Kotlin | 📅 2026-09-04 Production-grade open-source iGaming/casino engine built on Ktor. Game aggregator integrations (Pragmatic Play, OneGameHub, Pateplay), session orchestration, betting lifecycle (place/settle/rollback), and freespin mechanics. Exposes a gRPC API and publishes RabbitMQ events. Hexagonal architecture with DDD and CQRS. Apache 2.0.
 * [Starter Project ktor](https://github.com/iammohdzaki/Starter-Project-Ktor) ⭐ 10 | 🐛 5 | 🌐 Kotlin | 📅 2025-10-30 This is a starter project for building server-side applications using Ktor, a framework for building asynchronous servers and clients in connected systems. This template integrates MongoDB for database operations, Koin for dependency injection, and Swagger for API documentation.
 * [Tegral OpenAPI](https://tegral.zoroark.guru/docs/modules/core/openapi/)
 
@@ -125,4 +125,4 @@ Thank you!
 
 ***
 
-> _Enhansomed by [enhansome](https://github.com/enhansome) on 2026-09-03._
+> _Enhansomed by [enhansome](https://github.com/enhansome) on 2026-09-04._
