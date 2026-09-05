@@ -77,7 +77,7 @@
             "id": 123470901,
             "language": "Kotlin",
             "license": null,
-            "last_commit": "2026-07-23T16:50:15Z",
+            "last_commit": "2026-09-04T22:10:58Z",
             "open_issues": 0,
             "owner": "raharrison",
             "repo": "kotlin-ktor-exposed-starter",
@@ -109,7 +109,7 @@
             "id": 442854737,
             "language": "Kotlin",
             "license": "Apache-2.0",
-            "last_commit": "2026-09-03T22:38:52Z",
+            "last_commit": "2026-09-04T22:22:21Z",
             "open_issues": 11,
             "owner": "nomisRev",
             "repo": "ktor-arrow-example",
@@ -791,7 +791,7 @@
             "id": 1094544202,
             "language": "Kotlin",
             "license": "Apache-2.0",
-            "last_commit": "2026-09-04T08:24:22Z",
+            "last_commit": "2026-09-04T22:35:28Z",
             "open_issues": 0,
             "owner": "nekzabirov",
             "repo": "IGaming-Game-Engine",
@@ -847,7 +847,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-09-04T10:38:50.131Z",
+    "last_updated": "2026-09-05T09:59:52.339Z",
     "original_repository_info": {
       "archived": false,
       "description": "Awesome books, tutorials, courses, and resources for the Ktor framework ecosystem. ⚡",
