@@ -338,7 +338,7 @@
             "open_issues": 8,
             "owner": "kosi-libs",
             "repo": "Kodein",
-            "stars": 3336,
+            "stars": 3335,
             "topics": [
               "android",
               "compose",
@@ -372,7 +372,7 @@
             "open_issues": 18,
             "owner": "sksamuel",
             "repo": "hoplite",
-            "stars": 1045,
+            "stars": 1044,
             "topics": [
               "config",
               "config-loader",
@@ -791,7 +791,7 @@
             "id": 1094544202,
             "language": "Kotlin",
             "license": "Apache-2.0",
-            "last_commit": "2026-09-04T22:35:28Z",
+            "last_commit": "2026-09-06T10:12:43Z",
             "open_issues": 0,
             "owner": "nekzabirov",
             "repo": "IGaming-Game-Engine",
@@ -847,7 +847,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-09-05T09:59:52.339Z",
+    "last_updated": "2026-09-06T10:18:35.429Z",
     "original_repository_info": {
       "archived": false,
       "description": "Awesome books, tutorials, courses, and resources for the Ktor framework ecosystem. ⚡",
