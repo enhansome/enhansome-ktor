@@ -96,7 +96,7 @@ Ktor is an asynchronous framework for creating microservices, web applications a
 
 ## Ktor Projects
 
-* [Kodein](https://github.com/kosi-libs/Kodein) ⭐ 3,335 | 🐛 8 | 🌐 Kotlin | 📅 2026-07-21 Kodein is a very simple and yet very useful dependency retrieval container. it is very easy to use and configure.
+* [Kodein](https://github.com/kosi-libs/Kodein) ⭐ 3,336 | 🐛 8 | 🌐 Kotlin | 📅 2026-07-21 Kodein is a very simple and yet very useful dependency retrieval container. it is very easy to use and configure.
 * [Hoplite](https://github.com/sksamuel/hoplite) ⭐ 1,044 | 🐛 18 | 🌐 Kotlin | 📅 2026-07-27 Kotlin library for loading configuration files into typesafe classes in a boilerplate-free way. Define your config using Kotlin data classes, and at startup Hoplite will read from one or more config files, mapping the values in those files into your config classes. Designed for usage in Ktor.
 * [Kweb](https://github.com/kwebio/kweb-core) ⚠️ Archived A streamlined Kotlin web framework built on Ktor that makes it easy to create sophisticated interactive websites.
 * [Ktor OpenAPI Generator](https://github.com/papsign/Ktor-OpenAPI-Generator) ⭐ 252 | 🐛 27 | 🌐 Kotlin | 📅 2022-06-18 Ktor OpenAPI/Swagger 3 Generator.
@@ -125,4 +125,4 @@ Thank you!
 
 ***
 
-> _Enhansomed by [enhansome](https://github.com/enhansome) on 2026-09-06._
+> _Enhansomed by [enhansome](https://github.com/enhansome) on 2026-09-07._
