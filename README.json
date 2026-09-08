@@ -19,7 +19,7 @@
             "open_issues": 12,
             "owner": "PatilShreyas",
             "repo": "NotyKT",
-            "stars": 1769,
+            "stars": 1768,
             "topics": [
               "android",
               "api",
@@ -109,7 +109,7 @@
             "id": 442854737,
             "language": "Kotlin",
             "license": "Apache-2.0",
-            "last_commit": "2026-09-04T22:22:21Z",
+            "last_commit": "2026-09-07T14:36:07Z",
             "open_issues": 11,
             "owner": "nomisRev",
             "repo": "ktor-arrow-example",
@@ -481,7 +481,7 @@
             "id": 342731382,
             "language": "Kotlin",
             "license": "Apache-2.0",
-            "last_commit": "2026-09-01T12:10:34Z",
+            "last_commit": "2026-09-07T20:27:08Z",
             "open_issues": 24,
             "owner": "sksamuel",
             "repo": "cohort",
@@ -791,7 +791,7 @@
             "id": 1094544202,
             "language": "Kotlin",
             "license": "Apache-2.0",
-            "last_commit": "2026-09-06T10:12:43Z",
+            "last_commit": "2026-09-07T22:12:21Z",
             "open_issues": 0,
             "owner": "nekzabirov",
             "repo": "IGaming-Game-Engine",
@@ -847,7 +847,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-09-07T11:39:07.294Z",
+    "last_updated": "2026-09-08T10:38:27.724Z",
     "original_repository_info": {
       "archived": false,
       "description": "Awesome books, tutorials, courses, and resources for the Ktor framework ecosystem. ⚡",
@@ -859,7 +859,7 @@
       "open_issues": 0,
       "owner": "mjovanc",
       "repo": "awesome-ktor",
-      "stars": 496,
+      "stars": 495,
       "topics": [
         "awesome",
         "awesome-list",
