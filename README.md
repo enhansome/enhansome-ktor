@@ -105,14 +105,14 @@ Ktor is an asynchronous framework for creating microservices, web applications a
 * [Kompendium](https://github.com/bkbnio/kompendium) ⚠️ Archived Intended to be a non-invasive OpenAPI spec generator for Ktor APIs. By operating entirely through Ktor's plugin architecture, it allows you to incrementally document your API without requiring you to rip out and replace the amazing code you have already written.
 * [Ktor OpenAPI Spec Generator](https://github.com/bkbnio/kompendium) ⚠️ Archived
 * [kotlin-kafka](https://github.com/nomisRev/kotlin-kafka) ⭐ 125 | 🐛 23 | 🌐 Kotlin | 📅 2026-07-05 Kafka bindings for Kotlin `suspend`, and Kafka streaming operators for KotlinX Flow. Designed for usage in Ktor.
-* [Extra Ktor Plugins](https://github.com/Flaxoos/extra-ktor-plugins) ⭐ 106 | 🐛 25 | 🌐 Kotlin | 📅 2026-04-01 A library of extra plugins for multiplatform ktor server / client, including a plugin for Kafka, a flexible rate limiter plugin and a circuit breaker for ktor clients
+* [Extra Ktor Plugins](https://github.com/Flaxoos/extra-ktor-plugins) ⭐ 107 | 🐛 25 | 🌐 Kotlin | 📅 2026-04-01 A library of extra plugins for multiplatform ktor server / client, including a plugin for Kafka, a flexible rate limiter plugin and a circuit breaker for ktor clients
 * [SuspendApp with Ktor](https://github.com/arrow-kt/suspendapp#suspendapp-with-ktor) ⚠️ Archived The module suspendapp-ktor provides a server constructor that lifts the Ktor ApplicationEngine in to a Resource, representing the Engine running an Application(i.e Netty) while supporting auto-reload.
 * [Kryptokrona Kotlin SDK](https://github.com/kryptokrona/kryptokrona-kotlin-sdk) ⭐ 54 | 🐛 26 | 🌐 Kotlin | 📅 2023-08-14 Kryptokrona SDK in Kotlin for building decentralized private communication and payment systems. Uses Ktor client library to fetch data from RPC.
 * [Kryptokrona API](https://github.com/kryptokrona/kryptokrona-api) ⚠️ Archived For caching and processing data from the blockchain to provide faster access for services.
 * [ktor-health-check](https://github.com/zensum/ktor-health-check) ⚠️ Archived Simple, opinionated ktor health and readiness checks made for Kubernetes.
 * [Kotlin GCP Pubsub](https://github.com/nomisRev/kotlin-gcp-pubsub) ⭐ 24 | 🐛 6 | 🌐 Kotlin | 📅 2026-08-31 A Ktor Plugin for convenient, and easy integrating with to Google Cloud Platform PubSub, includes testing support and integration with KotlinX Serialization.
-* [Casino Engine](https://github.com/nekzabirov/IGaming-Game-Engine) ⭐ 22 | 🐛 0 | 🌐 Kotlin | 📅 2026-09-07 Production-grade open-source iGaming/casino engine built on Ktor. Game aggregator integrations (Pragmatic Play, OneGameHub, Pateplay), session orchestration, betting lifecycle (place/settle/rollback), and freespin mechanics. Exposes a gRPC API and publishes RabbitMQ events. Hexagonal architecture with DDD and CQRS. Apache 2.0.
-* [Starter Project ktor](https://github.com/iammohdzaki/Starter-Project-Ktor) ⭐ 10 | 🐛 5 | 🌐 Kotlin | 📅 2025-10-30 This is a starter project for building server-side applications using Ktor, a framework for building asynchronous servers and clients in connected systems. This template integrates MongoDB for database operations, Koin for dependency injection, and Swagger for API documentation.
+* [Casino Engine](https://github.com/nekzabirov/IGaming-Game-Engine) ⭐ 22 | 🐛 0 | 🌐 Kotlin | 📅 2026-09-08 Production-grade open-source iGaming/casino engine built on Ktor. Game aggregator integrations (Pragmatic Play, OneGameHub, Pateplay), session orchestration, betting lifecycle (place/settle/rollback), and freespin mechanics. Exposes a gRPC API and publishes RabbitMQ events. Hexagonal architecture with DDD and CQRS. Apache 2.0.
+* [Starter Project ktor](https://github.com/iammohdzaki/Starter-Project-Ktor) ⭐ 11 | 🐛 5 | 🌐 Kotlin | 📅 2025-10-30 This is a starter project for building server-side applications using Ktor, a framework for building asynchronous servers and clients in connected systems. This template integrates MongoDB for database operations, Koin for dependency injection, and Swagger for API documentation.
 * [Tegral OpenAPI](https://tegral.zoroark.guru/docs/modules/core/openapi/)
 
 ## Contributing
@@ -125,4 +125,4 @@ Thank you!
 
 ***
 
-> _Enhansomed by [enhansome](https://github.com/enhansome) on 2026-09-08._
+> _Enhansomed by [enhansome](https://github.com/enhansome) on 2026-09-09._

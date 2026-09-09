@@ -597,7 +597,7 @@
             "open_issues": 25,
             "owner": "Flaxoos",
             "repo": "extra-ktor-plugins",
-            "stars": 106,
+            "stars": 107,
             "topics": [
               "kotlin",
               "kotlin-multiplatform",
@@ -791,7 +791,7 @@
             "id": 1094544202,
             "language": "Kotlin",
             "license": "Apache-2.0",
-            "last_commit": "2026-09-07T22:12:21Z",
+            "last_commit": "2026-09-08T15:20:17Z",
             "open_issues": 0,
             "owner": "nekzabirov",
             "repo": "IGaming-Game-Engine",
@@ -837,7 +837,7 @@
             "open_issues": 5,
             "owner": "iammohdzaki",
             "repo": "Starter-Project-Ktor",
-            "stars": 10,
+            "stars": 11,
             "topics": []
           },
           "first_seen": "2026-08-28T18:13:40.908Z"
@@ -847,7 +847,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-09-08T10:38:27.724Z",
+    "last_updated": "2026-09-09T10:48:07.832Z",
     "original_repository_info": {
       "archived": false,
       "description": "Awesome books, tutorials, courses, and resources for the Ktor framework ecosystem. ⚡",
@@ -859,7 +859,7 @@
       "open_issues": 0,
       "owner": "mjovanc",
       "repo": "awesome-ktor",
-      "stars": 495,
+      "stars": 496,
       "topics": [
         "awesome",
         "awesome-list",
