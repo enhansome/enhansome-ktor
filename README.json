@@ -60,7 +60,7 @@
             "open_issues": 14,
             "owner": "ktorio",
             "repo": "ktor-samples",
-            "stars": 1616,
+            "stars": 1615,
             "topics": []
           },
           "first_seen": "2026-08-28T18:13:40.908Z"
@@ -109,7 +109,7 @@
             "id": 442854737,
             "language": "Kotlin",
             "license": "Apache-2.0",
-            "last_commit": "2026-09-07T14:36:07Z",
+            "last_commit": "2026-09-09T15:36:36Z",
             "open_issues": 11,
             "owner": "nomisRev",
             "repo": "ktor-arrow-example",
@@ -369,7 +369,7 @@
             "language": "Kotlin",
             "license": "Apache-2.0",
             "last_commit": "2026-07-27T04:34:58Z",
-            "open_issues": 18,
+            "open_issues": 19,
             "owner": "sksamuel",
             "repo": "hoplite",
             "stars": 1044,
@@ -781,48 +781,6 @@
         },
         {
           "node_type": "item",
-          "title": "Casino Engine",
-          "description": "Production-grade open-source iGaming/casino engine built on Ktor. Game aggregator integrations (Pragmatic Play, OneGameHub, Pateplay), session orchestration, betting lifecycle (place/settle/rollback), and freespin mechanics. Exposes a gRPC API and publishes RabbitMQ events. Hexagonal architecture with DDD and CQRS. Apache 2.0.",
-          "children": [],
-          "repo_info": {
-            "archived": false,
-            "description": "Open-source iGaming/casino engine in Kotlin/Ktor — aggregator integrations (Pragmatic Play, OneGameHub, Pateplay), betting lifecycle, freespins, gRPC API. Hexagonal + DDD + CQRS, RabbitMQ event-driven. Apache 2.0.",
-            "homepage": "https://1638.cloud/",
-            "id": 1094544202,
-            "language": "Kotlin",
-            "license": "Apache-2.0",
-            "last_commit": "2026-09-08T15:20:17Z",
-            "open_issues": 0,
-            "owner": "nekzabirov",
-            "repo": "IGaming-Game-Engine",
-            "stars": 22,
-            "topics": [
-              "casino",
-              "casino-games",
-              "casino-gaming-platforms",
-              "cqrs",
-              "domain-driven-design",
-              "event-driven",
-              "gambling",
-              "grpc",
-              "hexagonal-architecture",
-              "igaming",
-              "igaming-software",
-              "kotlin",
-              "ktor",
-              "microservice",
-              "onegamehub",
-              "pateplay",
-              "pragmatic-play",
-              "rabbitmq",
-              "slots",
-              "turnkey-casino-solutions"
-            ]
-          },
-          "first_seen": "2026-08-28T18:13:40.908Z"
-        },
-        {
-          "node_type": "item",
           "title": "Starter Project ktor",
           "description": "This is a starter project for building server-side applications using Ktor, a framework for building asynchronous servers and clients in connected systems. This template integrates MongoDB for database operations, Koin for dependency injection, and Swagger for API documentation.",
           "children": [],
@@ -847,7 +805,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-09-09T10:48:07.832Z",
+    "last_updated": "2026-09-10T10:40:41.782Z",
     "original_repository_info": {
       "archived": false,
       "description": "Awesome books, tutorials, courses, and resources for the Ktor framework ecosystem. ⚡",
