@@ -81,7 +81,7 @@
             "open_issues": 0,
             "owner": "raharrison",
             "repo": "kotlin-ktor-exposed-starter",
-            "stars": 588,
+            "stars": 589,
             "topics": [
               "exposed",
               "flyway",
@@ -338,7 +338,7 @@
             "open_issues": 8,
             "owner": "kosi-libs",
             "repo": "Kodein",
-            "stars": 3336,
+            "stars": 3337,
             "topics": [
               "android",
               "compose",
@@ -369,7 +369,7 @@
             "language": "Kotlin",
             "license": "Apache-2.0",
             "last_commit": "2026-07-27T04:34:58Z",
-            "open_issues": 19,
+            "open_issues": 18,
             "owner": "sksamuel",
             "repo": "hoplite",
             "stars": 1044,
@@ -481,7 +481,7 @@
             "id": 342731382,
             "language": "Kotlin",
             "license": "Apache-2.0",
-            "last_commit": "2026-09-07T20:27:08Z",
+            "last_commit": "2026-09-10T11:05:07Z",
             "open_issues": 24,
             "owner": "sksamuel",
             "repo": "cohort",
@@ -562,7 +562,7 @@
             "language": "Kotlin",
             "license": "Apache-2.0",
             "last_commit": "2026-07-05T09:39:57Z",
-            "open_issues": 23,
+            "open_issues": 24,
             "owner": "nomisRev",
             "repo": "kotlin-kafka",
             "stars": 125,
@@ -805,7 +805,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-09-10T10:40:41.782Z",
+    "last_updated": "2026-09-11T10:39:41.136Z",
     "original_repository_info": {
       "archived": false,
       "description": "Awesome books, tutorials, courses, and resources for the Ktor framework ecosystem. ⚡",
