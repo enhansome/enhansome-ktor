@@ -19,7 +19,7 @@
             "open_issues": 12,
             "owner": "PatilShreyas",
             "repo": "NotyKT",
-            "stars": 1768,
+            "stars": 1767,
             "topics": [
               "android",
               "api",
@@ -60,7 +60,7 @@
             "open_issues": 14,
             "owner": "ktorio",
             "repo": "ktor-samples",
-            "stars": 1616,
+            "stars": 1617,
             "topics": []
           },
           "first_seen": "2026-08-28T18:13:40.908Z"
@@ -805,7 +805,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-09-13T11:08:20.982Z",
+    "last_updated": "2026-09-14T11:53:18.531Z",
     "original_repository_info": {
       "archived": false,
       "description": "Awesome books, tutorials, courses, and resources for the Ktor framework ecosystem. ⚡",
@@ -817,7 +817,7 @@
       "open_issues": 0,
       "owner": "mjovanc",
       "repo": "awesome-ktor",
-      "stars": 496,
+      "stars": 497,
       "topics": [
         "awesome",
         "awesome-list",
