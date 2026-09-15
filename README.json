@@ -113,7 +113,7 @@
             "open_issues": 11,
             "owner": "nomisRev",
             "repo": "ktor-arrow-example",
-            "stars": 305,
+            "stars": 306,
             "topics": [
               "arrow-kt",
               "hacktoberfest",
@@ -561,11 +561,11 @@
             "id": 428349598,
             "language": "Kotlin",
             "license": "Apache-2.0",
-            "last_commit": "2026-07-05T09:39:57Z",
+            "last_commit": "2026-09-14T12:23:53Z",
             "open_issues": 24,
             "owner": "nomisRev",
             "repo": "kotlin-kafka",
-            "stars": 125,
+            "stars": 126,
             "topics": [
               "hacktoberfest",
               "kafka",
@@ -597,7 +597,7 @@
             "open_issues": 25,
             "owner": "Flaxoos",
             "repo": "extra-ktor-plugins",
-            "stars": 107,
+            "stars": 108,
             "topics": [
               "kotlin",
               "kotlin-multiplatform",
@@ -756,7 +756,7 @@
             "id": 577029437,
             "language": "Kotlin",
             "license": "Apache-2.0",
-            "last_commit": "2026-08-31T17:23:59Z",
+            "last_commit": "2026-09-14T17:29:01Z",
             "open_issues": 6,
             "owner": "nomisRev",
             "repo": "gcp-pubsub-kt",
@@ -805,7 +805,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-09-14T11:53:18.531Z",
+    "last_updated": "2026-09-15T11:08:36.118Z",
     "original_repository_info": {
       "archived": false,
       "description": "Awesome books, tutorials, courses, and resources for the Ktor framework ecosystem. ⚡",
