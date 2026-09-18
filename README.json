@@ -60,7 +60,7 @@
             "open_issues": 14,
             "owner": "ktorio",
             "repo": "ktor-samples",
-            "stars": 1617,
+            "stars": 1618,
             "topics": []
           },
           "first_seen": "2026-08-28T18:13:40.908Z"
@@ -113,7 +113,7 @@
             "open_issues": 11,
             "owner": "nomisRev",
             "repo": "ktor-arrow-example",
-            "stars": 306,
+            "stars": 307,
             "topics": [
               "arrow-kt",
               "hacktoberfest",
@@ -145,7 +145,7 @@
             "open_issues": 3,
             "owner": "mathias21",
             "repo": "KtorEasy",
-            "stars": 279,
+            "stars": 280,
             "topics": [
               "docker",
               "docker-compose",
@@ -175,7 +175,7 @@
             "open_issues": 0,
             "owner": "dragneelfps",
             "repo": "realworld-kotlin-ktor",
-            "stars": 199,
+            "stars": 200,
             "topics": []
           },
           "first_seen": "2026-08-28T18:13:40.908Z"
@@ -805,7 +805,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-09-17T11:01:18.692Z",
+    "last_updated": "2026-09-18T10:37:37.647Z",
     "original_repository_info": {
       "archived": false,
       "description": "Awesome books, tutorials, courses, and resources for the Ktor framework ecosystem. ⚡",
