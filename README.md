@@ -52,7 +52,7 @@ Ktor is an asynchronous framework for creating microservices, web applications a
 
 * [NotyKT](https://github.com/PatilShreyas/NotyKT) ⭐ 1,767 | 🐛 12 | 🌐 Kotlin | 📅 2026-04-23 NotyKT is the complete Kotlin-stack note taking application built to demonstrate a use of Kotlin programming language in server-side and Modern Android development tools.  REST API built using Ktor.
 * [Samples for Ktor](https://github.com/ktorio/ktor-samples) ⭐ 1,618 | 🐛 14 | 🌐 Kotlin | 📅 2026-09-17 A collection of ready-to-use samples for Ktor.
-* [Starter project to create a simple RESTful web service in Kotlin](https://github.com/raharrison/kotlin-ktor-exposed-starter) ⭐ 589 | 🐛 0 | 🌐 Kotlin | 📅 2026-09-04 Starter RESTful service with websocket notifications using Kotlin, Ktor and Exposed with H2, HikariCP and FlyWay.
+* [Starter project to create a simple RESTful web service in Kotlin](https://github.com/raharrison/kotlin-ktor-exposed-starter) ⭐ 589 | 🐛 0 | 🌐 Kotlin | 📅 2026-09-19 Starter RESTful service with websocket notifications using Kotlin, Ktor and Exposed with H2, HikariCP and FlyWay.
 * [Ktor Arrow Real World Example](https://github.com/nomisRev/ktor-arrow-example) ⭐ 307 | 🐛 11 | 🌐 Kotlin | 📅 2026-09-18 Real World implementation - "The mother of all demo apps". Written in Kotlin, with Ktor, Arrow, SqlDelight, KotlinX Serialization, etc.
 * [KtorEasy](https://github.com/mathias21/KtorEasy) ⭐ 279 | 🐛 3 | 🌐 Kotlin | 📅 2023-02-15 Demonstrates a suggested Ktor architecture. It includes Backend implementation with Ktor, MariaDB database connection with Hikari, Docker command to build Backend container and Docker compose to run both database and backend instance.
 * [RealWorld Kotlin Ktor Backend](https://github.com/dragneelfps/realworld-kotlin-ktor) ⭐ 200 | 🐛 0 | 🌐 Kotlin | 📅 2025-04-19 Kotlin-Ktor codebase containing real world examples (CRUD, auth, advanced patterns, etc) that adheres to the RealWorld spec and API.
@@ -125,4 +125,4 @@ Thank you!
 
 ***
 
-> _Enhansomed by [enhansome](https://github.com/enhansome) on 2026-09-19._
+> _Enhansomed by [enhansome](https://github.com/enhansome) on 2026-09-20._

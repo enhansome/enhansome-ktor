@@ -77,7 +77,7 @@
             "id": 123470901,
             "language": "Kotlin",
             "license": null,
-            "last_commit": "2026-09-04T22:10:58Z",
+            "last_commit": "2026-09-19T14:12:52Z",
             "open_issues": 0,
             "owner": "raharrison",
             "repo": "kotlin-ktor-exposed-starter",
@@ -805,7 +805,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-09-19T10:22:03.862Z",
+    "last_updated": "2026-09-20T10:40:49.639Z",
     "original_repository_info": {
       "archived": false,
       "description": "Awesome books, tutorials, courses, and resources for the Ktor framework ecosystem. ⚡",
