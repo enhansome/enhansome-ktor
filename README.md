@@ -101,7 +101,7 @@ Ktor is an asynchronous framework for creating microservices, web applications a
 * [Kweb](https://github.com/kwebio/kweb-core) ⚠️ Archived A streamlined Kotlin web framework built on Ktor that makes it easy to create sophisticated interactive websites.
 * [Ktor OpenAPI Generator](https://github.com/papsign/Ktor-OpenAPI-Generator) ⭐ 252 | 🐛 27 | 🌐 Kotlin | 📅 2022-06-18 Ktor OpenAPI/Swagger 3 Generator.
 * [Tribune](https://github.com/sksamuel/tribune) ⭐ 221 | 🐛 1 | 🌐 Kotlin | 📅 2025-05-28 Multiplatform Kotlin library that builds on Arrow to provide a toolset for creating simple parsers from raw input types, to properly validated parsed types. Designed for usage in Ktor.
-* [Cohort](https://github.com/sksamuel/cohort) ⭐ 185 | 🐛 19 | 🌐 Kotlin | 📅 2026-09-21 Spring Actuator style replacement for Ktor. Provides health checks for orchestrators like Kubernetes and management of logging, databases, JVM settings, memory and threads in production.
+* [Cohort](https://github.com/sksamuel/cohort) ⭐ 185 | 🐛 19 | 🌐 Kotlin | 📅 2026-09-22 Spring Actuator style replacement for Ktor. Provides health checks for orchestrators like Kubernetes and management of logging, databases, JVM settings, memory and threads in production.
 * [Kompendium](https://github.com/bkbnio/kompendium) ⚠️ Archived Intended to be a non-invasive OpenAPI spec generator for Ktor APIs. By operating entirely through Ktor's plugin architecture, it allows you to incrementally document your API without requiring you to rip out and replace the amazing code you have already written.
 * [Ktor OpenAPI Spec Generator](https://github.com/bkbnio/kompendium) ⚠️ Archived
 * [kotlin-kafka](https://github.com/nomisRev/kotlin-kafka) ⭐ 126 | 🐛 24 | 🌐 Kotlin | 📅 2026-09-14 Kafka bindings for Kotlin `suspend`, and Kafka streaming operators for KotlinX Flow. Designed for usage in Ktor.
@@ -125,4 +125,4 @@ Thank you!
 
 ***
 
-> _Enhansomed by [enhansome](https://github.com/enhansome) on 2026-09-22._
+> _Enhansomed by [enhansome](https://github.com/enhansome) on 2026-09-23._

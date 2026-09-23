@@ -481,7 +481,7 @@
             "id": 342731382,
             "language": "Kotlin",
             "license": "Apache-2.0",
-            "last_commit": "2026-09-21T23:38:05Z",
+            "last_commit": "2026-09-22T18:43:30Z",
             "open_issues": 19,
             "owner": "sksamuel",
             "repo": "cohort",
@@ -805,7 +805,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-09-22T11:00:31.843Z",
+    "last_updated": "2026-09-23T10:49:05.923Z",
     "original_repository_info": {
       "archived": false,
       "description": "Awesome books, tutorials, courses, and resources for the Ktor framework ecosystem. ⚡",
