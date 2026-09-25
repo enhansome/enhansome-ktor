@@ -19,7 +19,7 @@
             "open_issues": 12,
             "owner": "PatilShreyas",
             "repo": "NotyKT",
-            "stars": 1767,
+            "stars": 1768,
             "topics": [
               "android",
               "api",
@@ -56,7 +56,7 @@
             "id": 118613634,
             "language": "Kotlin",
             "license": "Apache-2.0",
-            "last_commit": "2026-09-17T10:22:21Z",
+            "last_commit": "2026-09-25T00:40:02Z",
             "open_issues": 14,
             "owner": "ktorio",
             "repo": "ktor-samples",
@@ -81,7 +81,7 @@
             "open_issues": 0,
             "owner": "raharrison",
             "repo": "kotlin-ktor-exposed-starter",
-            "stars": 589,
+            "stars": 590,
             "topics": [
               "exposed",
               "flyway",
@@ -145,7 +145,7 @@
             "open_issues": 3,
             "owner": "mathias21",
             "repo": "KtorEasy",
-            "stars": 279,
+            "stars": 280,
             "topics": [
               "docker",
               "docker-compose",
@@ -805,7 +805,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-09-24T11:09:32.129Z",
+    "last_updated": "2026-09-25T11:13:19.360Z",
     "original_repository_info": {
       "archived": false,
       "description": "Awesome books, tutorials, courses, and resources for the Ktor framework ecosystem. ⚡",
