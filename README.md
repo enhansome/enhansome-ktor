@@ -50,7 +50,7 @@ Ktor is an asynchronous framework for creating microservices, web applications a
 
 ## Educational Projects
 
-* [NotyKT](https://github.com/PatilShreyas/NotyKT) ⭐ 1,768 | 🐛 12 | 🌐 Kotlin | 📅 2026-04-23 NotyKT is the complete Kotlin-stack note taking application built to demonstrate a use of Kotlin programming language in server-side and Modern Android development tools.  REST API built using Ktor.
+* [NotyKT](https://github.com/PatilShreyas/NotyKT) ⭐ 1,769 | 🐛 12 | 🌐 Kotlin | 📅 2026-04-23 NotyKT is the complete Kotlin-stack note taking application built to demonstrate a use of Kotlin programming language in server-side and Modern Android development tools.  REST API built using Ktor.
 * [Samples for Ktor](https://github.com/ktorio/ktor-samples) ⭐ 1,618 | 🐛 14 | 🌐 Kotlin | 📅 2026-09-25 A collection of ready-to-use samples for Ktor.
 * [Starter project to create a simple RESTful web service in Kotlin](https://github.com/raharrison/kotlin-ktor-exposed-starter) ⭐ 590 | 🐛 0 | 🌐 Kotlin | 📅 2026-09-19 Starter RESTful service with websocket notifications using Kotlin, Ktor and Exposed with H2, HikariCP and FlyWay.
 * [Ktor Arrow Real World Example](https://github.com/nomisRev/ktor-arrow-example) ⭐ 307 | 🐛 12 | 🌐 Kotlin | 📅 2026-09-23 Real World implementation - "The mother of all demo apps". Written in Kotlin, with Ktor, Arrow, SqlDelight, KotlinX Serialization, etc.
@@ -125,4 +125,4 @@ Thank you!
 
 ***
 
-> _Enhansomed by [enhansome](https://github.com/enhansome) on 2026-09-25._
+> _Enhansomed by [enhansome](https://github.com/enhansome) on 2026-09-26._
