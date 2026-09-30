@@ -805,7 +805,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-09-29T12:11:08.354Z",
+    "last_updated": "2026-09-30T11:57:59.991Z",
     "original_repository_info": {
       "archived": false,
       "description": "Awesome books, tutorials, courses, and resources for the Ktor framework ecosystem. ⚡",
@@ -817,7 +817,7 @@
       "open_issues": 0,
       "owner": "mjovanc",
       "repo": "awesome-ktor",
-      "stars": 497,
+      "stars": 498,
       "topics": [
         "awesome",
         "awesome-list",
