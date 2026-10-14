@@ -50,7 +50,7 @@ Ktor is an asynchronous framework for creating microservices, web applications a
 
 ## Educational Projects
 
-* [NotyKT](https://github.com/PatilShreyas/NotyKT) ⭐ 1,771 | 🐛 12 | 🌐 Kotlin | 📅 2026-04-23 NotyKT is the complete Kotlin-stack note taking application built to demonstrate a use of Kotlin programming language in server-side and Modern Android development tools.  REST API built using Ktor.
+* [NotyKT](https://github.com/PatilShreyas/NotyKT) ⭐ 1,772 | 🐛 12 | 🌐 Kotlin | 📅 2026-04-23 NotyKT is the complete Kotlin-stack note taking application built to demonstrate a use of Kotlin programming language in server-side and Modern Android development tools.  REST API built using Ktor.
 * [Samples for Ktor](https://github.com/ktorio/ktor-samples) ⭐ 1,618 | 🐛 14 | 🌐 Kotlin | 📅 2026-10-10 A collection of ready-to-use samples for Ktor.
 * [Starter project to create a simple RESTful web service in Kotlin](https://github.com/raharrison/kotlin-ktor-exposed-starter) ⭐ 590 | 🐛 0 | 🌐 Kotlin | 📅 2026-09-19 Starter RESTful service with websocket notifications using Kotlin, Ktor and Exposed with H2, HikariCP and FlyWay.
 * [Ktor Arrow Real World Example](https://github.com/nomisRev/ktor-arrow-example) ⭐ 307 | 🐛 12 | 🌐 Kotlin | 📅 2026-10-13 Real World implementation - "The mother of all demo apps". Written in Kotlin, with Ktor, Arrow, SqlDelight, KotlinX Serialization, etc.
@@ -110,7 +110,7 @@ Ktor is an asynchronous framework for creating microservices, web applications a
 * [Kryptokrona Kotlin SDK](https://github.com/kryptokrona/kryptokrona-kotlin-sdk) ⭐ 54 | 🐛 26 | 🌐 Kotlin | 📅 2023-08-14 Kryptokrona SDK in Kotlin for building decentralized private communication and payment systems. Uses Ktor client library to fetch data from RPC.
 * [Kryptokrona API](https://github.com/kryptokrona/kryptokrona-api) ⚠️ Archived For caching and processing data from the blockchain to provide faster access for services.
 * [ktor-health-check](https://github.com/zensum/ktor-health-check) ⚠️ Archived Simple, opinionated ktor health and readiness checks made for Kubernetes.
-* [Kotlin GCP Pubsub](https://github.com/nomisRev/kotlin-gcp-pubsub) ⭐ 24 | 🐛 6 | 🌐 Kotlin | 📅 2026-10-05 A Ktor Plugin for convenient, and easy integrating with to Google Cloud Platform PubSub, includes testing support and integration with KotlinX Serialization.
+* [Kotlin GCP Pubsub](https://github.com/nomisRev/kotlin-gcp-pubsub) ⭐ 24 | 🐛 7 | 🌐 Kotlin | 📅 2026-10-13 A Ktor Plugin for convenient, and easy integrating with to Google Cloud Platform PubSub, includes testing support and integration with KotlinX Serialization.
 * [Casino Engine](https://github.com/nekzabirov/IGaming-Game-Engine) ⭐ 24 | 🐛 0 | 🌐 Kotlin | 📅 2026-09-08 Production-grade open-source iGaming/casino engine built on Ktor. Game aggregator integrations (Pragmatic Play, OneGameHub, Pateplay), session orchestration, betting lifecycle (place/settle/rollback), and freespin mechanics. Exposes a gRPC API and publishes RabbitMQ events. Hexagonal architecture with DDD and CQRS. Apache 2.0.
 * [Starter Project ktor](https://github.com/iammohdzaki/Starter-Project-Ktor) ⭐ 12 | 🐛 5 | 🌐 Kotlin | 📅 2025-10-30 This is a starter project for building server-side applications using Ktor, a framework for building asynchronous servers and clients in connected systems. This template integrates MongoDB for database operations, Koin for dependency injection, and Swagger for API documentation.
 * [Tegral OpenAPI](https://tegral.zoroark.guru/docs/modules/core/openapi/)
@@ -125,4 +125,4 @@ Thank you!
 
 ***
 
-> _Enhansomed by [enhansome](https://github.com/enhansome) on 2026-10-13._
+> _Enhansomed by [enhansome](https://github.com/enhansome) on 2026-10-14._
