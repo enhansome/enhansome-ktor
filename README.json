@@ -19,7 +19,7 @@
             "open_issues": 12,
             "owner": "PatilShreyas",
             "repo": "NotyKT",
-            "stars": 1772,
+            "stars": 1773,
             "topics": [
               "android",
               "api",
@@ -109,8 +109,8 @@
             "id": 442854737,
             "language": "Kotlin",
             "license": "Apache-2.0",
-            "last_commit": "2026-10-13T12:44:49Z",
-            "open_issues": 12,
+            "last_commit": "2026-10-14T21:55:30Z",
+            "open_issues": 13,
             "owner": "nomisRev",
             "repo": "ktor-arrow-example",
             "stars": 307,
@@ -847,7 +847,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-10-14T11:15:02.577Z",
+    "last_updated": "2026-10-15T10:54:14.308Z",
     "original_repository_info": {
       "archived": false,
       "description": "Awesome books, tutorials, courses, and resources for the Ktor framework ecosystem. ⚡",
