@@ -19,7 +19,7 @@
             "open_issues": 12,
             "owner": "PatilShreyas",
             "repo": "NotyKT",
-            "stars": 1773,
+            "stars": 1774,
             "topics": [
               "android",
               "api",
@@ -60,7 +60,7 @@
             "open_issues": 14,
             "owner": "ktorio",
             "repo": "ktor-samples",
-            "stars": 1618,
+            "stars": 1619,
             "topics": []
           },
           "first_seen": "2026-08-28T18:13:40.908Z"
@@ -109,7 +109,7 @@
             "id": 442854737,
             "language": "Kotlin",
             "license": "Apache-2.0",
-            "last_commit": "2026-10-14T21:55:30Z",
+            "last_commit": "2026-10-15T16:13:23Z",
             "open_issues": 13,
             "owner": "nomisRev",
             "repo": "ktor-arrow-example",
@@ -369,7 +369,7 @@
             "language": "Kotlin",
             "license": "Apache-2.0",
             "last_commit": "2026-10-09T04:22:54Z",
-            "open_issues": 11,
+            "open_issues": 12,
             "owner": "sksamuel",
             "repo": "hoplite",
             "stars": 1045,
@@ -597,7 +597,7 @@
             "open_issues": 25,
             "owner": "Flaxoos",
             "repo": "extra-ktor-plugins",
-            "stars": 108,
+            "stars": 107,
             "topics": [
               "kotlin",
               "kotlin-multiplatform",
@@ -847,7 +847,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-10-15T10:54:14.308Z",
+    "last_updated": "2026-10-16T10:45:34.268Z",
     "original_repository_info": {
       "archived": false,
       "description": "Awesome books, tutorials, courses, and resources for the Ktor framework ecosystem. ⚡",
@@ -856,7 +856,7 @@
       "language": "Kotlin",
       "license": "CC0-1.0",
       "last_commit": "2026-05-15T09:09:53Z",
-      "open_issues": 0,
+      "open_issues": 1,
       "owner": "mjovanc",
       "repo": "awesome-ktor",
       "stars": 498,
