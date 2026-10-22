@@ -59,7 +59,7 @@ Ktor is an asynchronous framework for creating microservices, web applications a
 * [Tenistas REST Ktor (Spanish)](https://github.com/joseluisgs/tenistas-rest-ktor-2022-2023) ⭐ 49 | 🐛 0 | 🌐 Kotlin | 📅 2023-06-07 Api REST de Tenistas con Ktor para Programación de Servicios y Procesos de 2º de DAM. Curso 2022/2023.
 * [Kotlin Native Server](https://github.com/nomisRev/ktor-k8s-zero-downtime) ⭐ 42 | 🐛 0 | 🌐 Kotlin | 📅 2023-02-22 Kotlin Native Ktor server with K8s zero-downtime demo.
 * [github-alerts-kotlin](https://github.com/47deg/gh-alerts-subscriptions-kotlin) ⭐ 34 | 🐛 7 | 🌐 Kotlin | 📅 2023-09-09 Example implementation of the subscription microservice (Ktor flavour).
-* [HTMX Sample app](https://github.com/Rattlyy/htmx-ktor) ⭐ 30 | 🐛 1 | 🌐 Kotlin | 📅 2026-01-25 Ktor + PostgreSQL + HTMX + kotlin.html. All CRUD methods are implemented.
+* [HTMX Sample app](https://github.com/Rattlyy/htmx-ktor) ⭐ 31 | 🐛 1 | 🌐 Kotlin | 📅 2026-01-25 Ktor + PostgreSQL + HTMX + kotlin.html. All CRUD methods are implemented.
 * [Ktor + Koin + MongoDB template](https://github.com/tkrason/ktor-koin-mongodb-template) ⭐ 19 | 🐛 0 | 🌐 Kotlin | 📅 2023-07-11 An example project how to run Ktor + Koin + MongoDB. Save your `data` classes with ease and without blocking!
 * [kotlin-backend-ktor](https://github.com/azlaan95/kotlin-backend-ktor) ⭐ 4 | 🐛 0 | 🌐 Kotlin | 📅 2023-08-24 A demonstration of how we can use Kotlin as Backed with Ktor.
 
@@ -97,7 +97,7 @@ Ktor is an asynchronous framework for creating microservices, web applications a
 ## Ktor Projects
 
 * [Kodein](https://github.com/kosi-libs/Kodein) ⭐ 3,333 | 🐛 7 | 🌐 Kotlin | 📅 2026-10-20 Kodein is a very simple and yet very useful dependency retrieval container. it is very easy to use and configure.
-* [Hoplite](https://github.com/sksamuel/hoplite) ⭐ 1,045 | 🐛 11 | 🌐 Kotlin | 📅 2026-10-16 Kotlin library for loading configuration files into typesafe classes in a boilerplate-free way. Define your config using Kotlin data classes, and at startup Hoplite will read from one or more config files, mapping the values in those files into your config classes. Designed for usage in Ktor.
+* [Hoplite](https://github.com/sksamuel/hoplite) ⭐ 1,044 | 🐛 12 | 🌐 Kotlin | 📅 2026-10-16 Kotlin library for loading configuration files into typesafe classes in a boilerplate-free way. Define your config using Kotlin data classes, and at startup Hoplite will read from one or more config files, mapping the values in those files into your config classes. Designed for usage in Ktor.
 * [Kweb](https://github.com/kwebio/kweb-core) ⚠️ Archived A streamlined Kotlin web framework built on Ktor that makes it easy to create sophisticated interactive websites.
 * [Ktor OpenAPI Generator](https://github.com/papsign/Ktor-OpenAPI-Generator) ⭐ 252 | 🐛 27 | 🌐 Kotlin | 📅 2022-06-18 Ktor OpenAPI/Swagger 3 Generator.
 * [Tribune](https://github.com/sksamuel/tribune) ⭐ 221 | 🐛 1 | 🌐 Kotlin | 📅 2025-05-28 Multiplatform Kotlin library that builds on Arrow to provide a toolset for creating simple parsers from raw input types, to properly validated parsed types. Designed for usage in Ktor.
@@ -125,4 +125,4 @@ Thank you!
 
 ***
 
-> _Enhansomed by [enhansome](https://github.com/enhansome) on 2026-10-21._
+> _Enhansomed by [enhansome](https://github.com/enhansome) on 2026-10-22._
