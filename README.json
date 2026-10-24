@@ -145,7 +145,7 @@
             "open_issues": 3,
             "owner": "mathias21",
             "repo": "KtorEasy",
-            "stars": 280,
+            "stars": 279,
             "topics": [
               "docker",
               "docker-compose",
@@ -368,8 +368,8 @@
             "id": 187727131,
             "language": "Kotlin",
             "license": "Apache-2.0",
-            "last_commit": "2026-10-16T18:54:06Z",
-            "open_issues": 12,
+            "last_commit": "2026-10-24T06:22:38Z",
+            "open_issues": 14,
             "owner": "sksamuel",
             "repo": "hoplite",
             "stars": 1044,
@@ -481,8 +481,8 @@
             "id": 342731382,
             "language": "Kotlin",
             "license": "Apache-2.0",
-            "last_commit": "2026-10-23T08:44:54Z",
-            "open_issues": 15,
+            "last_commit": "2026-10-23T22:08:14Z",
+            "open_issues": 19,
             "owner": "sksamuel",
             "repo": "cohort",
             "stars": 185,
@@ -805,7 +805,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-10-23T11:03:42.228Z",
+    "last_updated": "2026-10-24T10:20:06.665Z",
     "original_repository_info": {
       "archived": false,
       "description": "Awesome books, tutorials, courses, and resources for the Ktor framework ecosystem. ⚡",
