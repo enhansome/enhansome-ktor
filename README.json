@@ -338,7 +338,7 @@
             "open_issues": 7,
             "owner": "kosi-libs",
             "repo": "Kodein",
-            "stars": 3333,
+            "stars": 3334,
             "topics": [
               "android",
               "compose",
@@ -481,8 +481,8 @@
             "id": 342731382,
             "language": "Kotlin",
             "license": "Apache-2.0",
-            "last_commit": "2026-10-23T22:08:14Z",
-            "open_issues": 19,
+            "last_commit": "2026-10-25T09:29:42Z",
+            "open_issues": 18,
             "owner": "sksamuel",
             "repo": "cohort",
             "stars": 185,
@@ -805,7 +805,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-10-24T10:20:06.665Z",
+    "last_updated": "2026-10-25T10:47:06.498Z",
     "original_repository_info": {
       "archived": false,
       "description": "Awesome books, tutorials, courses, and resources for the Ktor framework ecosystem. ⚡",
