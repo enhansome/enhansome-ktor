@@ -77,7 +77,7 @@
             "id": 123470901,
             "language": "Kotlin",
             "license": null,
-            "last_commit": "2026-10-18T20:09:42Z",
+            "last_commit": "2026-10-30T17:50:17Z",
             "open_issues": 0,
             "owner": "raharrison",
             "repo": "kotlin-ktor-exposed-starter",
@@ -481,7 +481,7 @@
             "id": 342731382,
             "language": "Kotlin",
             "license": "Apache-2.0",
-            "last_commit": "2026-10-29T17:50:48Z",
+            "last_commit": "2026-10-30T14:36:40Z",
             "open_issues": 12,
             "owner": "sksamuel",
             "repo": "cohort",
@@ -597,7 +597,7 @@
             "open_issues": 25,
             "owner": "Flaxoos",
             "repo": "extra-ktor-plugins",
-            "stars": 107,
+            "stars": 108,
             "topics": [
               "kotlin",
               "kotlin-multiplatform",
@@ -805,7 +805,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-10-30T12:11:18.052Z",
+    "last_updated": "2026-10-31T11:43:37.050Z",
     "original_repository_info": {
       "archived": false,
       "description": "Awesome books, tutorials, courses, and resources for the Ktor framework ecosystem. ⚡",
