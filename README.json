@@ -269,7 +269,7 @@
             "open_issues": 1,
             "owner": "Rattlyy",
             "repo": "htmx-ktor",
-            "stars": 31,
+            "stars": 30,
             "topics": []
           },
           "first_seen": "2026-08-28T18:13:40.908Z"
@@ -338,7 +338,7 @@
             "open_issues": 7,
             "owner": "kosi-libs",
             "repo": "Kodein",
-            "stars": 3333,
+            "stars": 3334,
             "topics": [
               "android",
               "compose",
@@ -369,7 +369,7 @@
             "language": "Kotlin",
             "license": "Apache-2.0",
             "last_commit": "2026-10-28T05:46:24Z",
-            "open_issues": 12,
+            "open_issues": 13,
             "owner": "sksamuel",
             "repo": "hoplite",
             "stars": 1044,
@@ -593,7 +593,7 @@
             "id": 675010928,
             "language": "Kotlin",
             "license": "NOASSERTION",
-            "last_commit": "2026-04-01T11:57:15Z",
+            "last_commit": "2026-11-02T14:02:35Z",
             "open_issues": 25,
             "owner": "Flaxoos",
             "repo": "extra-ktor-plugins",
@@ -805,7 +805,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-11-01T12:43:16.986Z",
+    "last_updated": "2026-11-02T14:50:09.656Z",
     "original_repository_info": {
       "archived": false,
       "description": "Awesome books, tutorials, courses, and resources for the Ktor framework ecosystem. ⚡",
