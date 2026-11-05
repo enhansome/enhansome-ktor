@@ -56,7 +56,7 @@
             "id": 118613634,
             "language": "Kotlin",
             "license": "Apache-2.0",
-            "last_commit": "2026-10-30T09:44:42Z",
+            "last_commit": "2026-11-04T18:56:04Z",
             "open_issues": 14,
             "owner": "ktorio",
             "repo": "ktor-samples",
@@ -109,8 +109,8 @@
             "id": 442854737,
             "language": "Kotlin",
             "license": "Apache-2.0",
-            "last_commit": "2026-11-03T01:15:42Z",
-            "open_issues": 12,
+            "last_commit": "2026-11-04T15:39:47Z",
+            "open_issues": 11,
             "owner": "nomisRev",
             "repo": "ktor-arrow-example",
             "stars": 307,
@@ -372,7 +372,7 @@
             "open_issues": 14,
             "owner": "sksamuel",
             "repo": "hoplite",
-            "stars": 1044,
+            "stars": 1045,
             "topics": [
               "config",
               "config-loader",
@@ -481,7 +481,7 @@
             "id": 342731382,
             "language": "Kotlin",
             "license": "Apache-2.0",
-            "last_commit": "2026-11-04T06:03:20Z",
+            "last_commit": "2026-11-04T13:50:54Z",
             "open_issues": 5,
             "owner": "sksamuel",
             "repo": "cohort",
@@ -597,7 +597,7 @@
             "open_issues": 24,
             "owner": "Flaxoos",
             "repo": "extra-ktor-plugins",
-            "stars": 108,
+            "stars": 109,
             "topics": [
               "kotlin",
               "kotlin-multiplatform",
@@ -805,7 +805,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-11-04T13:49:03.006Z",
+    "last_updated": "2026-11-05T14:01:31.969Z",
     "original_repository_info": {
       "archived": false,
       "description": "Awesome books, tutorials, courses, and resources for the Ktor framework ecosystem. ⚡",
