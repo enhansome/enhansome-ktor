@@ -97,11 +97,11 @@ Ktor is an asynchronous framework for creating microservices, web applications a
 ## Ktor Projects
 
 * [Kodein](https://github.com/kosi-libs/Kodein) ⭐ 3,335 | 🐛 7 | 🌐 Kotlin | 📅 2026-11-03 Kodein is a very simple and yet very useful dependency retrieval container. it is very easy to use and configure.
-* [Hoplite](https://github.com/sksamuel/hoplite) ⭐ 1,044 | 🐛 15 | 🌐 Kotlin | 📅 2026-10-28 Kotlin library for loading configuration files into typesafe classes in a boilerplate-free way. Define your config using Kotlin data classes, and at startup Hoplite will read from one or more config files, mapping the values in those files into your config classes. Designed for usage in Ktor.
+* [Hoplite](https://github.com/sksamuel/hoplite) ⭐ 1,044 | 🐛 9 | 🌐 Kotlin | 📅 2026-11-10 Kotlin library for loading configuration files into typesafe classes in a boilerplate-free way. Define your config using Kotlin data classes, and at startup Hoplite will read from one or more config files, mapping the values in those files into your config classes. Designed for usage in Ktor.
 * [Kweb](https://github.com/kwebio/kweb-core) ⚠️ Archived A streamlined Kotlin web framework built on Ktor that makes it easy to create sophisticated interactive websites.
 * [Ktor OpenAPI Generator](https://github.com/papsign/Ktor-OpenAPI-Generator) ⭐ 252 | 🐛 27 | 🌐 Kotlin | 📅 2022-06-18 Ktor OpenAPI/Swagger 3 Generator.
 * [Tribune](https://github.com/sksamuel/tribune) ⭐ 221 | 🐛 1 | 🌐 Kotlin | 📅 2025-05-28 Multiplatform Kotlin library that builds on Arrow to provide a toolset for creating simple parsers from raw input types, to properly validated parsed types. Designed for usage in Ktor.
-* [Cohort](https://github.com/sksamuel/cohort) ⭐ 185 | 🐛 10 | 🌐 Kotlin | 📅 2026-11-08 Spring Actuator style replacement for Ktor. Provides health checks for orchestrators like Kubernetes and management of logging, databases, JVM settings, memory and threads in production.
+* [Cohort](https://github.com/sksamuel/cohort) ⭐ 185 | 🐛 11 | 🌐 Kotlin | 📅 2026-11-10 Spring Actuator style replacement for Ktor. Provides health checks for orchestrators like Kubernetes and management of logging, databases, JVM settings, memory and threads in production.
 * [Kompendium](https://github.com/bkbnio/kompendium) ⚠️ Archived Intended to be a non-invasive OpenAPI spec generator for Ktor APIs. By operating entirely through Ktor's plugin architecture, it allows you to incrementally document your API without requiring you to rip out and replace the amazing code you have already written.
 * [Ktor OpenAPI Spec Generator](https://github.com/bkbnio/kompendium) ⚠️ Archived
 * [kotlin-kafka](https://github.com/nomisRev/kotlin-kafka) ⭐ 127 | 🐛 26 | 🌐 Kotlin | 📅 2026-09-14 Kafka bindings for Kotlin `suspend`, and Kafka streaming operators for KotlinX Flow. Designed for usage in Ktor.
@@ -110,7 +110,7 @@ Ktor is an asynchronous framework for creating microservices, web applications a
 * [Kryptokrona Kotlin SDK](https://github.com/kryptokrona/kryptokrona-kotlin-sdk) ⭐ 54 | 🐛 26 | 🌐 Kotlin | 📅 2023-08-14 Kryptokrona SDK in Kotlin for building decentralized private communication and payment systems. Uses Ktor client library to fetch data from RPC.
 * [Kryptokrona API](https://github.com/kryptokrona/kryptokrona-api) ⚠️ Archived For caching and processing data from the blockchain to provide faster access for services.
 * [ktor-health-check](https://github.com/zensum/ktor-health-check) ⚠️ Archived Simple, opinionated ktor health and readiness checks made for Kubernetes.
-* [Kotlin GCP Pubsub](https://github.com/nomisRev/kotlin-gcp-pubsub) ⭐ 24 | 🐛 6 | 🌐 Kotlin | 📅 2026-11-02 A Ktor Plugin for convenient, and easy integrating with to Google Cloud Platform PubSub, includes testing support and integration with KotlinX Serialization.
+* [Kotlin GCP Pubsub](https://github.com/nomisRev/kotlin-gcp-pubsub) ⭐ 24 | 🐛 6 | 🌐 Kotlin | 📅 2026-11-09 A Ktor Plugin for convenient, and easy integrating with to Google Cloud Platform PubSub, includes testing support and integration with KotlinX Serialization.
 * [Starter Project ktor](https://github.com/iammohdzaki/Starter-Project-Ktor) ⭐ 12 | 🐛 5 | 🌐 Kotlin | 📅 2025-10-30 This is a starter project for building server-side applications using Ktor, a framework for building asynchronous servers and clients in connected systems. This template integrates MongoDB for database operations, Koin for dependency injection, and Swagger for API documentation.
 * [Tegral OpenAPI](https://tegral.zoroark.guru/docs/modules/core/openapi/)
 * [Casino Engine](https://github.com/nekzabirov/IGaming-Game-Engine) Production-grade open-source iGaming/casino engine built on Ktor. Game aggregator integrations (Pragmatic Play, OneGameHub, Pateplay), session orchestration, betting lifecycle (place/settle/rollback), and freespin mechanics. Exposes a gRPC API and publishes RabbitMQ events. Hexagonal architecture with DDD and CQRS. Apache 2.0.
@@ -125,4 +125,4 @@ Thank you!
 
 ***
 
-> _Enhansomed by [enhansome](https://github.com/enhansome) on 2026-11-09._
+> _Enhansomed by [enhansome](https://github.com/enhansome) on 2026-11-10._
