@@ -109,8 +109,8 @@
             "id": 442854737,
             "language": "Kotlin",
             "license": "Apache-2.0",
-            "last_commit": "2026-11-10T20:05:07Z",
-            "open_issues": 11,
+            "last_commit": "2026-11-11T15:39:02Z",
+            "open_issues": 12,
             "owner": "nomisRev",
             "repo": "ktor-arrow-example",
             "stars": 307,
@@ -481,8 +481,8 @@
             "id": 342731382,
             "language": "Kotlin",
             "license": "Apache-2.0",
-            "last_commit": "2026-11-10T21:08:44Z",
-            "open_issues": 11,
+            "last_commit": "2026-11-12T03:37:10Z",
+            "open_issues": 12,
             "owner": "sksamuel",
             "repo": "cohort",
             "stars": 185,
@@ -805,7 +805,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-11-11T13:37:01.100Z",
+    "last_updated": "2026-11-12T14:40:14.693Z",
     "original_repository_info": {
       "archived": false,
       "description": "Awesome books, tutorials, courses, and resources for the Ktor framework ecosystem. ⚡",
