@@ -19,7 +19,7 @@
             "open_issues": 12,
             "owner": "PatilShreyas",
             "repo": "NotyKT",
-            "stars": 1773,
+            "stars": 1772,
             "topics": [
               "android",
               "api",
@@ -372,7 +372,7 @@
             "open_issues": 9,
             "owner": "sksamuel",
             "repo": "hoplite",
-            "stars": 1044,
+            "stars": 1045,
             "topics": [
               "config",
               "config-loader",
@@ -400,7 +400,7 @@
             "open_issues": 12,
             "owner": "kwebio",
             "repo": "kweb-core",
-            "stars": 966,
+            "stars": 967,
             "topics": [
               "dom",
               "html",
@@ -481,7 +481,7 @@
             "id": 342731382,
             "language": "Kotlin",
             "license": "Apache-2.0",
-            "last_commit": "2026-11-12T03:37:10Z",
+            "last_commit": "2026-11-12T21:09:01Z",
             "open_issues": 12,
             "owner": "sksamuel",
             "repo": "cohort",
@@ -563,7 +563,7 @@
             "license": "Apache-2.0",
             "last_commit": "2026-09-14T12:23:53Z",
             "open_issues": 26,
-            "owner": "nomisRev",
+            "owner": "kafka-kt",
             "repo": "kotlin-kafka",
             "stars": 127,
             "topics": [
@@ -805,7 +805,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-11-12T14:40:14.693Z",
+    "last_updated": "2026-11-13T13:57:51.143Z",
     "original_repository_info": {
       "archived": false,
       "description": "Awesome books, tutorials, courses, and resources for the Ktor framework ecosystem. ⚡",
