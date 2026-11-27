@@ -109,7 +109,7 @@
             "id": 442854737,
             "language": "Kotlin",
             "license": "Apache-2.0",
-            "last_commit": "2026-11-25T15:36:40Z",
+            "last_commit": "2026-11-27T16:10:11Z",
             "open_issues": 11,
             "owner": "nomisRev",
             "repo": "ktor-arrow-example",
@@ -338,7 +338,7 @@
             "open_issues": 6,
             "owner": "kosi-libs",
             "repo": "Kodein",
-            "stars": 3335,
+            "stars": 3336,
             "topics": [
               "android",
               "compose",
@@ -481,7 +481,7 @@
             "id": 342731382,
             "language": "Kotlin",
             "license": "Apache-2.0",
-            "last_commit": "2026-11-20T04:26:03Z",
+            "last_commit": "2026-11-27T15:09:40Z",
             "open_issues": 13,
             "owner": "sksamuel",
             "repo": "cohort",
@@ -805,7 +805,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-11-26T16:26:19.761Z",
+    "last_updated": "2026-11-27T16:11:34.871Z",
     "original_repository_info": {
       "archived": false,
       "description": "Awesome books, tutorials, courses, and resources for the Ktor framework ecosystem. ⚡",
@@ -814,7 +814,7 @@
       "language": "Kotlin",
       "license": "CC0-1.0",
       "last_commit": "2026-05-15T09:09:53Z",
-      "open_issues": 1,
+      "open_issues": 2,
       "owner": "mjovanc",
       "repo": "awesome-ktor",
       "stars": 496,
